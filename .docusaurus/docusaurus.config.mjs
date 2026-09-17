@@ -21,7 +21,7 @@ export default {
       "onBrokenMarkdownImages": "throw"
     }
   },
-  "title": "CompanyName ProductName",
+  "title": "Company Product",
   "tagline": "fdkgfdlgdlfghfldgd",
   "favicon": "img/favicon.ico",
   "url": "https://jimken123.github.io",

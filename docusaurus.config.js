@@ -14,7 +14,7 @@ const config = {
     mermaid: true,
   },
 
-  title: 'CompanyName ProductName',
+  title: 'Company Product',
   tagline: 'fdkgfdlgdlfghfldgd',
   favicon: 'img/favicon.ico',
 
