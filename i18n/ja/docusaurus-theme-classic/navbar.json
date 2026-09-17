@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "AIファクトリーのドキュメント",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Midokura ロゴ",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "ドキュメント",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Release Notes": {
+    "message": "リリースノート",
+    "description": "Navbar item with label Release Notes"
+  },
+    "item.label.Upgrade Guide": {
+    "message": "アップグレードガイド",
+    "description": "Navbar item with label Upgrade Guide"
+  },
+  "item.label.Tutorial": {
+    "message": "チュートリアル",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
