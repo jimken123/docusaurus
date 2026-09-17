@@ -1,0 +1,8 @@
+{
+  "label": "Lorem",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation for Lorem."
+  }
+}
