@@ -2,7 +2,17 @@
 
 Using Cluster add-ons to install and manage tools on Kubernetes clusters.
 
-Cluster add-ons allow you to easily install and manage popular tools such as JupyterHub and KubeRay on your Kubernetes clusters through the IaaS Console UI.
+To install via the API:
+
+```bash
+export CLUSTER_ID="<your-cluster-id>"
+
+curl -X POST \
+  -H "Authorization: Bearer $JWT_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"addon": "model-provider", "params": {"models": ["qwen3.5-35b"]}}' \
+  "${API_BASE_URL}/clusters/${CLUSTER_ID}/addons"
+```
 
 ## Introduction
 
@@ -39,10 +49,6 @@ To remove an add-on:
 
 Uninstalling an add-on will remove all associated data and resources in that specific add-on's namespace.
 
-## Model Provider
-
-The **Model Provider** add-on deploys open-source language models on your cluster using vLLM, exposing an OpenAI-compatible inference API.
-
 ### Available Models
 
 | Model name | Display name | Best suited for |
@@ -54,18 +60,6 @@ The **Model Provider** add-on deploys open-source language models on your cluste
 ### Installing the Model Provider
 
 When installing via the Add-ons tab, select one or more models from the catalog. Multiple models can be deployed simultaneously on the same add-on instance.
-
-To install via the API:
-
-```bash
-export CLUSTER_ID="<your-cluster-id>"
-
-curl -X POST \
-  -H "Authorization: Bearer $JWT_TOKEN" \
-  -H "Content-Type: application/json" \
-  -d '{"addon": "model-provider", "params": {"models": ["qwen3.5-35b"]}}' \
-  "${API_BASE_URL}/clusters/${CLUSTER_ID}/addons"
-```
 
 ### Using the Inference Endpoint
 
