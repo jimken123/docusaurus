@@ -371,16 +371,16 @@
   "User": {
     "message": "ユーザー"
   },
-  "Clear, practical guidance to using and customizing your cutting-edge GPUs as dedicated resources": {
+  "Lorem ipsum dolor": {
     "message": "最先端GPUを専用リソースとして活用・カスタマイズするための実践ガイド"
   },
   "This is your home for rolling out your private AI factory as a software service.": {
     "message": "ここでは、プライベートAIファクトリーをソフトウェアサービスとして展開するための情報を提供します。"
    },
-  "In these pages you will learn to use your CompanyName GPU solution to develop your proprietary environments.": {
+  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.": {
     "message": "CompanyName GPUソリューションを活用し、独自のAIインフラ環境を構築する方法を学べます。"
   },
-  "Documentation organised by version and backed up with concise Release Notes": {
+  "Documentation by version + Release Notes": {
     "message": "バージョンごとのドキュメントと要点をまとめたリリースノート"
   },
   "Documentation": {
@@ -392,13 +392,13 @@
   "Release Notes": {
     "message": "リリースノート"
   },
-  "Every new release of our system will be signalled to you by the arrival of a version-specific set of release notes in your inbox. These release notes, hosted here on this website, will, in clear and brief language, outline the important aspects of new and improved features, as well as flag up any changes or improvements to functional behaviour.": {
+  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.": {
     "message": "新しいバージョンが公開されると、バージョンごとのリリースノートがメールで通知されます。本サイトでは、新機能や機能改善のポイント、動作仕様の変更点などを簡潔にまとめたリリースノートをご覧いただけます。"
   },
   "Advanced": {
     "message": "高度な機能"
   },
-  "Once you are comfortable with your configuration and have your system up and running, we will also teach you how to set alerts on your system, build observability dashboards, even how to manage users and tenants with the Operator API and give your users VPN access.": {
+  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.": {
     "message": "システムの設定と運用に慣れてきたら、アラート設定やオブザーバビリティダッシュボードの構築、Operator API を利用したユーザーおよびテナント管理、VPNアクセスの提供方法などについても学べます。"
   },
   "Contribute": {
@@ -416,7 +416,7 @@
   "CompanyName AI Factory": {
     "message": "CompanyName AIファクトリー"
   },
-  "High-end GPU servers for HPC and AI workloads delivered to your doorstep": {
+  "...high-end widgets for low-stress success...": {
     "message": "HPCおよびAIワークロード向けの高性能GPUサーバーを提供します"
   }
 }

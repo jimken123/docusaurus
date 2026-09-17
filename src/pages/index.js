@@ -59,7 +59,7 @@ function Home() {
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title"><Translate>CompanyName ProductName</Translate></h1>
-          <p className="hero__subtitle"><Translate>High-end GPU servers for HPC and AI workloads delivered to your doorstep</Translate></p>
+          <p className="hero__subtitle"><Translate>...high-end widgets for low-stress success...</Translate></p>
           <img
             className={clsx('no-auto-height', styles.heroImage)}
             src={useBaseUrl('img/phoenix.svg')}
@@ -92,9 +92,9 @@ function Home() {
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">   
-              <h3 className="text--center"><Translate>Clear, practical guidance to using and customizing your cutting-edge GPUs as dedicated resources</Translate></h3>
-              <p className="text--center"><Translate>This is your home for rolling out your private ProductName as a software service.</Translate></p>
-              <p className="text--center"><Translate>In these pages you will learn to use your CompanyName GPU solution to develop your proprietary environments.</Translate></p>
+              <h3 className="text--center"><Translate>Lorem ipsum dolor</Translate></h3>
+              <p className="text--center"><Translate>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Translate></p>
+              <p className="text--center"><Translate>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Translate></p>
             </div>
           </section>
         )}
@@ -103,25 +103,25 @@ function Home() {
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <section className={styles.features}>
           <div className="container">
-              <h3 className="text--center"><Translate>Documentation organised by version and backed up with concise Release Notes</Translate></h3>
+              <h3 className="text--center"><Translate>Documentation by version + Release Notes</Translate></h3>
             <div class="panel">
 
               <div class="panel">
                 <div>
                   <h3 className="text--center"><Translate>Documentation</Translate></h3>
-                  <p className="text--left"><Translate>Our documentation is focussed around managing your ProductName IaaS platform. Here you will learn how to start simple and move progressively through all aspects of your CompanyName AI GPU tech stack, from setting up and configuring your storage cluster right through to more complex tasks, such as setting up router boxes to host bootstrap VMs.</Translate></p>
+                  <p className="text--left"><Translate>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</Translate></p>
                 </div>
               </div>
 
               <div class="panel">
                 <div>
                   <h3 className="text--center"><Translate>Release Notes</Translate></h3>
-                  <p className="text--left"><Translate>Every new release of our system will be signalled to you by the arrival of a version-specific set of release notes in your inbox. These release notes, hosted here on this website, will, in clear and brief language, outline the important aspects of new and improved features, as well as flag up any changes or improvements to functional behaviour.</Translate></p>
+                  <p className="text--left"><Translate>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</Translate></p>
                 </div>
               </div>
             </div>
                 <h2 className="text--center"><Translate>Advanced</Translate></h2>                   
-                <p className="text--center"><Translate>Once you are comfortable with your configuration and have your system up and running, we will also teach you how to set alerts on your system, build observability dashboards, even how to manage users and tenants with the Operator API and give your users VPN access.</Translate></p>
+                <p className="text--center"><Translate>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</Translate></p>
 
         </div>
         </section>
