@@ -24,10 +24,10 @@ export default {
   "title": "CompanyName ProductName",
   "tagline": "fdkgfdlgdlfghfldgd",
   "favicon": "img/favicon.ico",
-  "url": "https://docs.foo.com",
+  "url": "https://docs.midokura.com",
   "baseUrl": "/",
-  "organizationName": "midokura",
-  "projectName": "phoenix-documentation",
+  "organizationName": "jimken123",
+  "projectName": "docusaurus",
   "trailingSlash": false,
   "onBrokenLinks": "warn",
   "i18n": {
@@ -122,11 +122,11 @@ export default {
     },
     "footer": {
       "logo": {
-        "alt": "",
+        "alt": "Midokura",
         "src": "img/white-logo.png",
         "href": "https://midokura.com"
       },
-      "copyright": "©YYYY CompanyName",
+      "copyright": "©2026 Midokura",
       "style": "light",
       "links": []
     },

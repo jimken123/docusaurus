@@ -19,15 +19,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.midokura.com',
+  // url: 'https://docs.midokura.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'midokura', // Usually your GitHub org/user name.
-  projectName: 'phoenix-documentation', // Usually your repo name.
+  organizationName: 'jimken123.github.io', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
