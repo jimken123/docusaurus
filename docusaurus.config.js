@@ -122,7 +122,7 @@ const config = {
       footer: {
         logo: {
         alt: 'foo',
-        src: 'img/white-logo.png',
+        src: 'img/logo-long1.png',
         href: 'https://example.com',
       },      
         copyright: `©${new Date().getFullYear()} Foo`,
