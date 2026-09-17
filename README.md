@@ -1,6 +1,6 @@
-# CompanyName ProductName Documentation Website
+# Demo Documentation Website
 
-These are the publicly available source files for the CompanyName ProductName Documentation [website](https://docs.CompanyName.com), which is build in [Docusaurus](https://docusaurus.io/).
+These are the publicly available source files for my demo Documentation [website](https://jimken123.github.io/docusaurus), which is build in [Docusaurus](https://docusaurus.io/).
 
 ## Installation
 

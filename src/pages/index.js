@@ -73,17 +73,17 @@ function Home() {
           <div className={styles.buttons}>
             <Link
             className="button button--secondary button--lg"
-            to="/docs/category/service-operator"><Translate>
-            Service Operator</Translate>
-          </Link>
+            to="/docs/category/user"><Translate>
+            Foo</Translate>
+            </Link>
           </div>
           <p></p>
           <div className={styles.buttons}>
             <Link
             className="button button--secondary button--lg"
-            to="/docs/category/user"><Translate>
-            User</Translate>
-          </Link>
+            to="/docs/category/service-operator"><Translate>
+            Bar</Translate>
+            </Link>
           </div>
         </div>
       </header>
