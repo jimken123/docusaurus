@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/blog",
+  "blogBasePath": "/docusaurus/blog",
   "blogTitle": "Release Notes",
-  "authorsListPath": "/blog/authors"
+  "authorsListPath": "/docusaurus/blog/authors"
 }

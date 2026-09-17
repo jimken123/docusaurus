@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.6/service-operator/OPERATOR_OVERVIEW.md",
   "sourceDirName": "service-operator",
   "slug": "/service-operator/OPERATOR_OVERVIEW",
-  "permalink": "/docs/service-operator/OPERATOR_OVERVIEW",
+  "permalink": "/docusaurus/docs/service-operator/OPERATOR_OVERVIEW",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Service Operator",
-    "permalink": "/docs/category/service-operator"
+    "permalink": "/docusaurus/docs/category/service-operator"
   },
   "next": {
     "title": "Runbooks",
-    "permalink": "/docs/category/runbooks"
+    "permalink": "/docusaurus/docs/category/runbooks"
   }
 }

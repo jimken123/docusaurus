@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.6/service-operator/runbooks/APPLY_IPLIST.md",
   "sourceDirName": "service-operator/runbooks",
   "slug": "/service-operator/runbooks/APPLY_IPLIST",
-  "permalink": "/docs/service-operator/runbooks/APPLY_IPLIST",
+  "permalink": "/docusaurus/docs/service-operator/runbooks/APPLY_IPLIST",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "VPN Agent Reconciliation Failure",
-    "permalink": "/docs/service-operator/runbooks/VPN_RECONCILIATION_FAILURE"
+    "permalink": "/docusaurus/docs/service-operator/runbooks/VPN_RECONCILIATION_FAILURE"
   },
   "next": {
     "title": "CAPI cluster health alerts",
-    "permalink": "/docs/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS"
+    "permalink": "/docusaurus/docs/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS"
   }
 }

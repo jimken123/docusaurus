@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/key-rotation/SSH_KEYS.md",
   "sourceDirName": "service-operator/runbooks/key-rotation",
   "slug": "/service-operator/runbooks/key-rotation/SSH_KEYS",
-  "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/SSH_KEYS",
+  "permalink": "/docusaurus/docs/v25.1.1/service-operator/runbooks/key-rotation/SSH_KEYS",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rotate Ansible Vault Passwords",
-    "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/ANSIBLE_VAULT"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/runbooks/key-rotation/ANSIBLE_VAULT"
   },
   "next": {
     "title": "Rotate TLS Certificates",
-    "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/TLS_CERTIFICATES"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/runbooks/key-rotation/TLS_CERTIFICATES"
   }
 }

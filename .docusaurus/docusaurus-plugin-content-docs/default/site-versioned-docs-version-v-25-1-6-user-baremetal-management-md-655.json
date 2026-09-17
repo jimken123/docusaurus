@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.6/user/BAREMETAL_MANAGEMENT.md",
   "sourceDirName": "user",
   "slug": "/user/BAREMETAL_MANAGEMENT",
-  "permalink": "/docs/user/BAREMETAL_MANAGEMENT",
+  "permalink": "/docusaurus/docs/user/BAREMETAL_MANAGEMENT",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Cluster Add-ons",
-    "permalink": "/docs/user/ADDONS_USER_GUIDE"
+    "permalink": "/docusaurus/docs/user/ADDONS_USER_GUIDE"
   },
   "next": {
     "title": "Block Storage Setup",
-    "permalink": "/docs/user/BLOCK_STORAGE_SETUP"
+    "permalink": "/docusaurus/docs/user/BLOCK_STORAGE_SETUP"
   }
 }

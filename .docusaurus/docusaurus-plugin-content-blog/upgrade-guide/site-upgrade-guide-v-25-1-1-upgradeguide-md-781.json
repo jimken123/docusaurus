@@ -1,5 +1,5 @@
 {
-  "permalink": "/upgrade-guide/v25.1.1",
+  "permalink": "/docusaurus/upgrade-guide/v25.1.1",
   "source": "@site/upgrade-guide/v25.1.1-upgradeguide.md",
   "title": "Upgrade to v25.1.1",
   "description": "No manual upgrade steps are required. Upgrading from 25.1.0 to 25.1.1 is a drop-in replacement.",
@@ -8,7 +8,7 @@
     {
       "inline": true,
       "label": "aifactory",
-      "permalink": "/upgrade-guide/tags/aifactory"
+      "permalink": "/docusaurus/upgrade-guide/tags/aifactory"
     }
   ],
   "readingTime": 0.09,
@@ -19,7 +19,7 @@
       "title": "Midokura Team",
       "url": "https://midokura.com",
       "page": {
-        "permalink": "/upgrade-guide/authors/midoteam"
+        "permalink": "/docusaurus/upgrade-guide/authors/midoteam"
       },
       "socials": {
         "github": "https://github.com/midokura"
@@ -42,6 +42,6 @@
   "unlisted": false,
   "prevItem": {
     "title": "Upgrade to v25.1.2",
-    "permalink": "/upgrade-guide/v25.1.2"
+    "permalink": "/docusaurus/upgrade-guide/v25.1.2"
   }
 }

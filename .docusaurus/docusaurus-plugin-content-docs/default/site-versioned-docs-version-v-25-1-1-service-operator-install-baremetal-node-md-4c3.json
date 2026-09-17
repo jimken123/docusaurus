@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.1/service-operator/INSTALL_BAREMETAL_NODE.md",
   "sourceDirName": "service-operator",
   "slug": "/service-operator/INSTALL_BAREMETAL_NODE",
-  "permalink": "/docs/v25.1.1/service-operator/INSTALL_BAREMETAL_NODE",
+  "permalink": "/docusaurus/docs/v25.1.1/service-operator/INSTALL_BAREMETAL_NODE",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Setup Ceph",
-    "permalink": "/docs/v25.1.1/service-operator/CEPH_SETUP"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/CEPH_SETUP"
   },
   "next": {
     "title": "Azure SSO Setup Guide",
-    "permalink": "/docs/v25.1.1/service-operator/AZURE_SSO_SETUP"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/AZURE_SSO_SETUP"
   }
 }

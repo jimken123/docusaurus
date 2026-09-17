@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.1/service-operator/OPERATOR_VPN_CONFIGURATION.md",
   "sourceDirName": "service-operator",
   "slug": "/service-operator/OPERATOR_VPN_CONFIGURATION",
-  "permalink": "/docs/v25.1.1/service-operator/OPERATOR_VPN_CONFIGURATION",
+  "permalink": "/docusaurus/docs/v25.1.1/service-operator/OPERATOR_VPN_CONFIGURATION",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Operator API Usage Guide",
-    "permalink": "/docs/v25.1.1/service-operator/OPERATOR_API_GUIDE"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/OPERATOR_API_GUIDE"
   },
   "next": {
     "title": "Public IP Access",
-    "permalink": "/docs/v25.1.1/service-operator/PUBLIC_IP_ACCESS"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/PUBLIC_IP_ACCESS"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "permalink": "/upgrade-guide/v25.1.6",
+  "permalink": "/docusaurus/upgrade-guide/v25.1.6",
   "source": "@site/upgrade-guide/v25.1.6-upgradeguide.md",
   "title": "Upgrade to v25.1.6",
   "description": "No manual upgrade steps are required. Upgrading to 25.1.6 from 25.1.5 is a",
@@ -8,7 +8,7 @@
     {
       "inline": false,
       "label": "AIsware",
-      "permalink": "/upgrade-guide/tags/aisware",
+      "permalink": "/docusaurus/upgrade-guide/tags/aisware",
       "description": "AIsware tag description"
     }
   ],
@@ -20,7 +20,7 @@
       "title": "Midokura Team",
       "url": "https://midokura.com",
       "page": {
-        "permalink": "/upgrade-guide/authors/midoteam"
+        "permalink": "/docusaurus/upgrade-guide/authors/midoteam"
       },
       "socials": {
         "github": "https://github.com/midokura"
@@ -43,6 +43,6 @@
   "unlisted": false,
   "nextItem": {
     "title": "Upgrade to v25.1.5",
-    "permalink": "/upgrade-guide/v25.1.5"
+    "permalink": "/docusaurus/upgrade-guide/v25.1.5"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/v25.1.6",
+  "permalink": "/docusaurus/blog/v25.1.6",
   "source": "@site/blog/v25.1.6-releasenotes.md",
   "title": "AIsware v25.1.6",
   "description": "Version 25.1.6 of AIsware is now available.",
@@ -8,7 +8,7 @@
     {
       "inline": false,
       "label": "AIsware",
-      "permalink": "/blog/tags/aisware",
+      "permalink": "/docusaurus/blog/tags/aisware",
       "description": "AIsware tag description"
     }
   ],
@@ -20,7 +20,7 @@
       "title": "Midokura Team",
       "url": "https://midokura.com",
       "page": {
-        "permalink": "/blog/authors/midoteam"
+        "permalink": "/docusaurus/blog/authors/midoteam"
       },
       "socials": {
         "github": "https://github.com/midokura"
@@ -43,6 +43,6 @@
   "unlisted": false,
   "nextItem": {
     "title": "AIsware v25.1.5",
-    "permalink": "/blog/v25.1.5"
+    "permalink": "/docusaurus/blog/v25.1.5"
   }
 }

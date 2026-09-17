@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.5/service-operator/runbooks/TENANT_SERVICE_TERMINATION.md",
   "sourceDirName": "service-operator/runbooks",
   "slug": "/service-operator/runbooks/TENANT_SERVICE_TERMINATION",
-  "permalink": "/docs/v25.1.5/service-operator/runbooks/TENANT_SERVICE_TERMINATION",
+  "permalink": "/docusaurus/docs/v25.1.5/service-operator/runbooks/TENANT_SERVICE_TERMINATION",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Switch heartbeat alert",
-    "permalink": "/docs/v25.1.5/service-operator/runbooks/SWITCH_HEARTBEAT_ALERT"
+    "permalink": "/docusaurus/docs/v25.1.5/service-operator/runbooks/SWITCH_HEARTBEAT_ALERT"
   },
   "next": {
     "title": "Observability",
-    "permalink": "/docs/v25.1.5/category/observability"
+    "permalink": "/docusaurus/docs/v25.1.5/category/observability"
   }
 }

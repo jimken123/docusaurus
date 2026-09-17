@@ -19,15 +19,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://jimken123.github.io/docusaurus',
+  url: 'https://jimken123.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docusaurus/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jimken123.github.io', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: '/docusaurus', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
@@ -90,9 +90,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'AIsware Documentation',
+        title: 'Foo Documentation',
         logo: {
-          alt: 'Midokura Logo',
+          alt: 'Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -113,7 +113,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/midokura/phoenix-documentation',
+            href: 'https://github.com/jimken123/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,11 +121,11 @@ const config = {
       },
       footer: {
         logo: {
-        alt: 'Midokura',
+        alt: 'foo',
         src: 'img/white-logo.png',
-        href: 'https://midokura.com',
+        href: 'https://example.com',
       },      
-        copyright: `©${new Date().getFullYear()} Midokura`,
+        copyright: `©${new Date().getFullYear()} Foo`,
       },
       prism: {
         theme: prismThemes.github,

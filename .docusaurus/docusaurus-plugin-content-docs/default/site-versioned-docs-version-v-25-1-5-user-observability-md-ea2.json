@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.5/user/OBSERVABILITY.md",
   "sourceDirName": "user",
   "slug": "/user/OBSERVABILITY",
-  "permalink": "/docs/v25.1.5/user/OBSERVABILITY",
+  "permalink": "/docusaurus/docs/v25.1.5/user/OBSERVABILITY",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Object Store Management",
-    "permalink": "/docs/v25.1.5/user/OBJECT_STORE_MANAGEMENT"
+    "permalink": "/docusaurus/docs/v25.1.5/user/OBJECT_STORE_MANAGEMENT"
   },
   "next": {
     "title": "Public IP Access",
-    "permalink": "/docs/v25.1.5/user/PUBLIC-IP-ACCESS"
+    "permalink": "/docusaurus/docs/v25.1.5/user/PUBLIC-IP-ACCESS"
   }
 }

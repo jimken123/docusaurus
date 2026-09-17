@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.6/service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION.md",
   "sourceDirName": "service-operator/runbooks",
   "slug": "/service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION",
-  "permalink": "/docs/service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION",
+  "permalink": "/docusaurus/docs/service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Hedgehog VM credentials update",
-    "permalink": "/docs/service-operator/runbooks/HEDGEHOG_VM_CREDENTIALS"
+    "permalink": "/docusaurus/docs/service-operator/runbooks/HEDGEHOG_VM_CREDENTIALS"
   },
   "next": {
     "title": "Migrating LVM OSDs to Raw BlueStore",
-    "permalink": "/docs/service-operator/runbooks/MIGRATE_OSD_DEFAULT_TO_SPEC"
+    "permalink": "/docusaurus/docs/service-operator/runbooks/MIGRATE_OSD_DEFAULT_TO_SPEC"
   }
 }

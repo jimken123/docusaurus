@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.3/service-operator/DEPLOYMENT.md",
   "sourceDirName": "service-operator",
   "slug": "/service-operator/DEPLOYMENT",
-  "permalink": "/docs/v25.1.3/service-operator/DEPLOYMENT",
+  "permalink": "/docusaurus/docs/v25.1.3/service-operator/DEPLOYMENT",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "CAPI Management Cluster",
-    "permalink": "/docs/v25.1.3/service-operator/CAPI_MANAGEMENT_CLUSTER"
+    "permalink": "/docusaurus/docs/v25.1.3/service-operator/CAPI_MANAGEMENT_CLUSTER"
   },
   "next": {
     "title": "GitHub Container Registry (GHCR) Authentication",
-    "permalink": "/docs/v25.1.3/service-operator/GHCR_AUTHENTICATION"
+    "permalink": "/docusaurus/docs/v25.1.3/service-operator/GHCR_AUTHENTICATION"
   }
 }

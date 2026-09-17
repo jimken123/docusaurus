@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/upgrade-guide",
+  "blogBasePath": "/docusaurus/upgrade-guide",
   "blogTitle": "Upgrade Guide",
-  "authorsListPath": "/upgrade-guide/authors"
+  "authorsListPath": "/docusaurus/upgrade-guide/authors"
 }

@@ -24,10 +24,10 @@ export default {
   "title": "CompanyName ProductName",
   "tagline": "fdkgfdlgdlfghfldgd",
   "favicon": "img/favicon.ico",
-  "url": "https://docs.midokura.com",
-  "baseUrl": "/",
-  "organizationName": "jimken123",
-  "projectName": "docusaurus",
+  "url": "https://jimken123.github.io",
+  "baseUrl": "/docusaurus/",
+  "organizationName": "jimken123.github.io",
+  "projectName": "/docusaurus",
   "trailingSlash": false,
   "onBrokenLinks": "warn",
   "i18n": {
@@ -84,9 +84,9 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "AIsware Documentation",
+      "title": "Foo Documentation",
       "logo": {
-        "alt": "Midokura Logo",
+        "alt": "Logo",
         "src": "img/logo.png"
       },
       "items": [
@@ -113,7 +113,7 @@ export default {
           "dropdownItemsAfter": []
         },
         {
-          "href": "https://github.com/midokura/phoenix-documentation",
+          "href": "https://github.com/jimken123/docusaurus",
           "label": "GitHub",
           "position": "right"
         }
@@ -122,11 +122,11 @@ export default {
     },
     "footer": {
       "logo": {
-        "alt": "Midokura",
+        "alt": "foo",
         "src": "img/white-logo.png",
-        "href": "https://midokura.com"
+        "href": "https://example.com"
       },
-      "copyright": "©2026 Midokura",
+      "copyright": "©2026 Foo",
       "style": "light",
       "links": []
     },

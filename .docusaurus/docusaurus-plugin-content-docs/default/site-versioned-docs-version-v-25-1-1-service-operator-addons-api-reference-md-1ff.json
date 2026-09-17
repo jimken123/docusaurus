@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.1/service-operator/ADDONS_API_REFERENCE.md",
   "sourceDirName": "service-operator",
   "slug": "/service-operator/ADDONS_API_REFERENCE",
-  "permalink": "/docs/v25.1.1/service-operator/ADDONS_API_REFERENCE",
+  "permalink": "/docusaurus/docs/v25.1.1/service-operator/ADDONS_API_REFERENCE",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Cluster Add-ons",
-    "permalink": "/docs/v25.1.1/service-operator/ADDONS_OPERATOR_GUIDE"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/ADDONS_OPERATOR_GUIDE"
   },
   "next": {
     "title": "OS Requirements",
-    "permalink": "/docs/v25.1.1/service-operator/OS_REQUIREMENTS"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/OS_REQUIREMENTS"
   }
 }

@@ -14,8 +14,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://docs.midokura.com",
-      "baseUrl": "/"
+      "url": "https://jimken123.github.io",
+      "baseUrl": "/docusaurus/"
     },
     "ja": {
       "label": "日本語",
@@ -24,8 +24,8 @@
       "calendar": "gregory",
       "path": "ja",
       "translate": true,
-      "url": "https://docs.midokura.com",
-      "baseUrl": "/ja/"
+      "url": "https://jimken123.github.io",
+      "baseUrl": "/docusaurus/ja/"
     }
   }
 }

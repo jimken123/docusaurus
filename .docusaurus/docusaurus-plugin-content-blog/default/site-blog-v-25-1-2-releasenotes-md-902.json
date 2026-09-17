@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/v25.1.2",
+  "permalink": "/docusaurus/blog/v25.1.2",
   "source": "@site/blog/v25.1.2-releasenotes.md",
   "title": "AI Factory v25.1.2",
   "description": "Version 25.1.2 of AI Factory is now available.",
@@ -8,7 +8,7 @@
     {
       "inline": true,
       "label": "aifactory",
-      "permalink": "/blog/tags/aifactory"
+      "permalink": "/docusaurus/blog/tags/aifactory"
     }
   ],
   "readingTime": 0.13,
@@ -19,7 +19,7 @@
       "title": "Midokura Team",
       "url": "https://midokura.com",
       "page": {
-        "permalink": "/blog/authors/midoteam"
+        "permalink": "/docusaurus/blog/authors/midoteam"
       },
       "socials": {
         "github": "https://github.com/midokura"
@@ -42,10 +42,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "AI Factory v25.1.3",
-    "permalink": "/blog/v25.1.3"
+    "permalink": "/docusaurus/blog/v25.1.3"
   },
   "nextItem": {
     "title": "AI Factory v25.1.1",
-    "permalink": "/blog/v25.1.1"
+    "permalink": "/docusaurus/blog/v25.1.1"
   }
 }

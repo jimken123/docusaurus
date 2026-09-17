@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.6/service-operator/runbooks/NEUTRON_L3_AGENT_RECOVERY.md",
   "sourceDirName": "service-operator/runbooks",
   "slug": "/service-operator/runbooks/NEUTRON_L3_AGENT_RECOVERY",
-  "permalink": "/docs/service-operator/runbooks/NEUTRON_L3_AGENT_RECOVERY",
+  "permalink": "/docusaurus/docs/service-operator/runbooks/NEUTRON_L3_AGENT_RECOVERY",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Migrating LVM OSDs to Raw BlueStore",
-    "permalink": "/docs/service-operator/runbooks/MIGRATE_OSD_DEFAULT_TO_SPEC"
+    "permalink": "/docusaurus/docs/service-operator/runbooks/MIGRATE_OSD_DEFAULT_TO_SPEC"
   },
   "next": {
     "title": "OpenStack cluster safe stop / cold start",
-    "permalink": "/docs/service-operator/runbooks/OPENSTACK_CLUSTER_STOP_START"
+    "permalink": "/docusaurus/docs/service-operator/runbooks/OPENSTACK_CLUSTER_STOP_START"
   }
 }

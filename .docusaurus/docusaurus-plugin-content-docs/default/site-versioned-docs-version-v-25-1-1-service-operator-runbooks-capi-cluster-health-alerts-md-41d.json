@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS.md",
   "sourceDirName": "service-operator/runbooks",
   "slug": "/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS",
-  "permalink": "/docs/v25.1.1/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS",
+  "permalink": "/docusaurus/docs/v25.1.1/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Key Rotation Overview",
-    "permalink": "/docs/v25.1.1/service-operator/runbooks/KEY_ROTATION"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/runbooks/KEY_ROTATION"
   },
   "next": {
     "title": "Ceph node maintenance",
-    "permalink": "/docs/v25.1.1/service-operator/runbooks/CEPH_NODE_MAINTENANCE"
+    "permalink": "/docusaurus/docs/v25.1.1/service-operator/runbooks/CEPH_NODE_MAINTENANCE"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.6/service-operator/OS_REQUIREMENTS.md",
   "sourceDirName": "service-operator",
   "slug": "/service-operator/OS_REQUIREMENTS",
-  "permalink": "/docs/service-operator/OS_REQUIREMENTS",
+  "permalink": "/docusaurus/docs/service-operator/OS_REQUIREMENTS",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Cluster Add-ons API Reference",
-    "permalink": "/docs/service-operator/ADDONS_API_REFERENCE"
+    "permalink": "/docusaurus/docs/service-operator/ADDONS_API_REFERENCE"
   },
   "next": {
     "title": "Licenses",
-    "permalink": "/docs/license"
+    "permalink": "/docusaurus/docs/license"
   }
 }

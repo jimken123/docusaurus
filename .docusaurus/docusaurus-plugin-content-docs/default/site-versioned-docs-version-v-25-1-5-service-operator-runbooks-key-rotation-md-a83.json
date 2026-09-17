@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-v25.1.5/service-operator/runbooks/KEY_ROTATION.md",
   "sourceDirName": "service-operator/runbooks",
   "slug": "/service-operator/runbooks/KEY_ROTATION",
-  "permalink": "/docs/v25.1.5/service-operator/runbooks/KEY_ROTATION",
+  "permalink": "/docusaurus/docs/v25.1.5/service-operator/runbooks/KEY_ROTATION",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Software Updates Overview",
-    "permalink": "/docs/v25.1.5/service-operator/runbooks/SOFTWARE_UPDATES"
+    "permalink": "/docusaurus/docs/v25.1.5/service-operator/runbooks/SOFTWARE_UPDATES"
   },
   "next": {
     "title": "VPN Agent Reconciliation Failure",
-    "permalink": "/docs/v25.1.5/service-operator/runbooks/VPN_RECONCILIATION_FAILURE"
+    "permalink": "/docusaurus/docs/v25.1.5/service-operator/runbooks/VPN_RECONCILIATION_FAILURE"
   }
 }
