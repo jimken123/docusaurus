@@ -13,7 +13,7 @@ phoenix:
   permalink: /phoenix
   description: Phoenix tag description
 
-aisware:
-  label: AIsware
-  permalink: /aisware
-  description: AIsware tag description
+ProductName:
+  label: ProductName
+  permalink: /ProductName
+  description: ProductName tag description

@@ -4,13 +4,13 @@ sidebar_position: 4
 
 # Licenses
 
-Third-party Notices for Midokura, AIsware.
+Third-party Notices for CompanyName, ProductName.
 
 THIRD PARTY SOFTWARE NOTICES AND INFORMATION
 
 Do Not Translate or Localize
 
-This software incorporates material from third parties. Midokura makes certain open source code available at https://github.com/orgs/midokura/repositories, https://midokura.com, and https://midokura.jp.
+This software incorporates material from third parties. CompanyName makes certain open source code available at https://github.com/orgs/CompanyName/repositories, https://CompanyName.com, and https://CompanyName.jp.
 
 ---
 <!---

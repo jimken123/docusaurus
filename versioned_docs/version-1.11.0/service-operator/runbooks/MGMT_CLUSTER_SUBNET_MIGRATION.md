@@ -36,7 +36,7 @@ metadata:
 spec:
   restartPolicy: Never
   imagePullSecrets:
-  - name: midokura-registry
+  - name: CompanyName-registry
   securityContext:
     fsGroup: 1000
     runAsNonRoot: false
@@ -44,7 +44,7 @@ spec:
       type: RuntimeDefault
   containers:
   - name: backup
-    image: ghcr.io/midokura/iaas-backup:latest
+    image: ghcr.io/CompanyName/iaas-backup:latest
     imagePullPolicy: Always
     command: ["sleep", "infinity"]
     env:
@@ -206,7 +206,7 @@ metadata:
 spec:
   restartPolicy: Never
   imagePullSecrets:
-  - name: midokura-registry
+  - name: CompanyName-registry
   securityContext:
     fsGroup: 1000
     runAsNonRoot: false
@@ -214,7 +214,7 @@ spec:
       type: RuntimeDefault
   containers:
   - name: backup
-    image: ghcr.io/midokura/iaas-backup:latest
+    image: ghcr.io/CompanyName/iaas-backup:latest
     imagePullPolicy: Always
     command: ["sleep", "infinity"]
     env:

@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Operator Overview
 
-Operator Overview for AIsware
+Operator Overview for ProductName
 
-This is the reference sheet for AIsware, an end-to-end solution to operate private, multi-tenant AI factories. Operators will find below an overview of the materials, infrastructure, and other requirements, and an entry point to the procedure to provision and configure the system.
+This is the reference sheet for ProductName, an end-to-end solution to operate private, multi-tenant AI factories. Operators will find below an overview of the materials, infrastructure, and other requirements, and an entry point to the procedure to provision and configure the system.
 
-Installer links, deployment files, and any other needed assets will be provided to clients directly. You can request them using the support@midokura.com email address.
+Installer links, deployment files, and any other needed assets will be provided to clients directly. You can request them using the support@CompanyName.com email address.
 
 ## System requirements
 
@@ -20,11 +20,11 @@ Documentation files referenced here are provided in a downloadable artefact incl
 
 - Before proceeding, operators are expected to ensure that the underlying infrastructure meets the system requirements listed below.
 - Operating system requirements for the OpenStack control nodes are available in [OS_REQUIREMENTS](./OS_REQUIREMENTS.md)
-- Operators are expected to set up their hardware according to our official [Blueprint](https://midokurajpeast.blob.core.windows.net/phoenix-releases/v1.8/phoenix-v1.2-blueprint.pdf?sp=r&st=2026-02-13T11:27:08Z&se=2050-02-13T19:42:08Z&spr=https&sv=2024-11-04&sr=b&sig=3vUMLFssAVFvqhIZeOkvDsmDXeLVY8FSSOGWXoBL7ns%3D), specifically with regard to network configuration, port and interface assignment.
+- Operators are expected to set up their hardware according to our official [Blueprint](https://CompanyNamejpeast.blob.core.windows.net/phoenix-releases/v1.8/phoenix-v1.2-blueprint.pdf?sp=r&st=2026-02-13T11:27:08Z&se=2050-02-13T19:42:08Z&spr=https&sv=2024-11-04&sr=b&sig=3vUMLFssAVFvqhIZeOkvDsmDXeLVY8FSSOGWXoBL7ns%3D), specifically with regard to network configuration, port and interface assignment.
   - Base Operating System for OSt controllers should be ubuntu-24.04
 - Storage. Operators are expected to provide a Ceph cluster, integrated in the infrastructure as defined in the blueprint. See more details in the [Hardware Setup](#hardware-setup)
 - Set up OAuth application(s) for SSO. Supported providers are Google ([GOOGLE_SSO_SETUP](./GOOGLE_SSO_SETUP.md)) and Azure ([AZURE_SSO_SETUP](./AZURE_SSO_SETUP.md)). See the Software Installation section for details.
-- Set up credentials for the private registry at ghcr.io/midokura. We will provide you with this token via secure means, and it will be required during the software installation process. More info at [GHCR_AUTHENTICATION](./GHCR_AUTHENTICATION.md).
+- Set up credentials for the private registry at ghcr.io/CompanyName. We will provide you with this token via secure means, and it will be required during the software installation process. More info at [GHCR_AUTHENTICATION](./GHCR_AUTHENTICATION.md).
 
 ## Overview
 
@@ -34,7 +34,7 @@ The sections below cover the full provisioning process, split into hardware setu
 
 The hardware setup covers all physical and foundational infrastructure steps required before deploying the control plane. Build the inventory file (`inventory.yml`) progressively as you complete each step, using the included `inventory.example.yml` as your starting point.
 
-1. **Rack and cable hardware** following the official [Blueprint](https://midokurajpeast.blob.core.windows.net/phoenix-releases/v1.8/phoenix-v1.2-blueprint.pdf?sp=r&st=2026-02-13T11:27:08Z&se=2050-02-13T19:42:08Z&spr=https&sv=2024-11-04&sr=b&sig=3vUMLFssAVFvqhIZeOkvDsmDXeLVY8FSSOGWXoBL7ns%3D) — pay particular attention to network topology, port and interface assignment, and storage cabling.
+1. **Rack and cable hardware** following the official [Blueprint](https://CompanyNamejpeast.blob.core.windows.net/phoenix-releases/v1.8/phoenix-v1.2-blueprint.pdf?sp=r&st=2026-02-13T11:27:08Z&se=2050-02-13T19:42:08Z&spr=https&sv=2024-11-04&sr=b&sig=3vUMLFssAVFvqhIZeOkvDsmDXeLVY8FSSOGWXoBL7ns%3D) — pay particular attention to network topology, port and interface assignment, and storage cabling.
 2. **Configure server BIOS and BMC** — apply BMC account and SNMP settings, configure Secure Boot, and apply model-specific BIOS settings as described in [BIOS_BMC_SETUP](./BIOS_BMC_SETUP.md).
 
 3. **Install OS on OpenStack control nodes** — Ubuntu 24.04 with RAID1 disks, VLAN interfaces, IOMMU, and required packages as specified in [OS_REQUIREMENTS](./OS_REQUIREMENTS.md).
@@ -52,7 +52,7 @@ The hardware setup covers all physical and foundational infrastructure steps req
      ```bash
      sudo apt-get update && sudo apt-get install -y podman
      ```
-   - **Authenticate to GHCR** — the deployment scripts pull the Ansible container from `ghcr.io/midokura`. Log in using a GitHub Personal Access Token with `read:packages` scope (see [GHCR_AUTHENTICATION](./GHCR_AUTHENTICATION.md)):
+   - **Authenticate to GHCR** — the deployment scripts pull the Ansible container from `ghcr.io/CompanyName`. Log in using a GitHub Personal Access Token with `read:packages` scope (see [GHCR_AUTHENTICATION](./GHCR_AUTHENTICATION.md)):
      ```bash
      echo $CR_PAT | podman login ghcr.io -u USERNAME --password-stdin
      ```

@@ -377,8 +377,8 @@
   "This is your home for rolling out your private AI factory as a software service.": {
     "message": "ここでは、プライベートAIファクトリーをソフトウェアサービスとして展開するための情報を提供します。"
    },
-  "In these pages you will learn to use your Midokura GPU solution to develop your proprietary environments.": {
-    "message": "Midokura GPUソリューションを活用し、独自のAIインフラ環境を構築する方法を学べます。"
+  "In these pages you will learn to use your CompanyName GPU solution to develop your proprietary environments.": {
+    "message": "CompanyName GPUソリューションを活用し、独自のAIインフラ環境を構築する方法を学べます。"
   },
   "Documentation organised by version and backed up with concise Release Notes": {
     "message": "バージョンごとのドキュメントと要点をまとめたリリースノート"
@@ -386,8 +386,8 @@
   "Documentation": {
     "message": "ドキュメント"
   },
-  "Our documentation is focussed around managing your AI Factory IaaS platform. Here you will learn how to start simple and move progressively through all aspects of your Midokura AI GPU tech stack, from setting up and configuring your storage cluster right through to more complex tasks, such as setting up router boxes to host bootstrap VMs.": {
-    "message": "本ドキュメントでは、AI Factory IaaSプラットフォームの管理方法を中心に解説しています。ストレージクラスタの設定や構成などの基本から、bootstrap VM をホストするためのルーターボックスの構築といった高度な作業まで、Midokura AI GPUテックスタックの各要素を段階的に学ぶことができます。"
+  "Our documentation is focussed around managing your AI Factory IaaS platform. Here you will learn how to start simple and move progressively through all aspects of your CompanyName AI GPU tech stack, from setting up and configuring your storage cluster right through to more complex tasks, such as setting up router boxes to host bootstrap VMs.": {
+    "message": "本ドキュメントでは、AI Factory IaaSプラットフォームの管理方法を中心に解説しています。ストレージクラスタの設定や構成などの基本から、bootstrap VM をホストするためのルーターボックスの構築といった高度な作業まで、CompanyName AI GPUテックスタックの各要素を段階的に学ぶことができます。"
   },
   "Release Notes": {
     "message": "リリースノート"
@@ -413,8 +413,8 @@
   "The source code for our documentation website can be found in the GitHub link in the navbar at the top of every page.": {
     "message": "ドキュメントサイトのソースコードは、各ページ上部のナビゲーションバーにあるGitHubリンクから確認できます。"
   },
-  "Midokura AI Factory": {
-    "message": "Midokura AIファクトリー"
+  "CompanyName AI Factory": {
+    "message": "CompanyName AIファクトリー"
   },
   "High-end GPU servers for HPC and AI workloads delivered to your doorstep": {
     "message": "HPCおよびAIワークロード向けの高性能GPUサーバーを提供します"

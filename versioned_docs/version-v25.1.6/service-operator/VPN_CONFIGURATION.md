@@ -75,7 +75,7 @@ If users report VPN connectivity issues, use the following flowchart to identify
 
 ```mermaid
 flowchart TD
-    Start([VPN connectivity issue]) --> NetCheck{"Internet reachable?\nping midokura.com"}
+    Start([VPN connectivity issue]) --> NetCheck{"Internet reachable?\nping CompanyName.com"}
     NetCheck -- No --> NetFail["Fix internet connection\nbefore troubleshooting VPN"]
     NetCheck -- Yes --> WGCheck{"WireGuard status:\nlatest handshake present\nand bytes received > 0?\nSee Step 2"}
     WGCheck -- "No handshake or\n0 bytes received" --> KeyFail["Key mismatch\nVerify the user's public key\nwas registered correctly\nSee Step 2"]
@@ -101,7 +101,7 @@ Ping the WireGuard endpoint to confirm network connectivity:
 
 ```bash
 # First, check that you can connect to the Internet.
-ping midokura.com
+ping CompanyName.com
 # Then, try pinging the VPN server.
 ping vpn.example.com
 ```
@@ -193,7 +193,7 @@ DNS resolution is critical for accessing resources through the VPN. You can trou
 
 ```bash
 # Test resolution of a public domain through the VPN server that is listed in the configuration
-nslookup midokura.com 172.31.0.254
+nslookup CompanyName.com 172.31.0.254
 
 # Check that you can resolve the "tld" subdomain from the configuration if present in your Wireguard DNS config
 nslookup myvm.tenant.example.tld 172.31.0.254
@@ -285,14 +285,14 @@ If this fails, try smaller packet sizes, for example, 1400 or 1300, to find the 
 Sample output:
 
 ```bash
-ping -4 -M do -s 1352 midokura.com
-PING midokura.com (198.51.100.42) 1472(1500) bytes of data.
+ping -4 -M do -s 1352 CompanyName.com
+PING CompanyName.com (198.51.100.42) 1472(1500) bytes of data.
 From _gateway (192.168.1.1) icmp_seq=1 Frag needed and DF set (mtu = 1380)
 ping: sendmsg: Message too long
 ^C
-ping -M do -s 1352 midokura.com
-PING midokura.com (198.51.100.42) 1352(1380) bytes of data.
-1360 bytes from 42-100.midokura.com (198.51.100.42): icmp_seq=1 ttl=47 time=12 ms
+ping -M do -s 1352 CompanyName.com
+PING CompanyName.com (198.51.100.42) 1352(1380) bytes of data.
+1360 bytes from 42-100.CompanyName.com (198.51.100.42): icmp_seq=1 ttl=47 time=12 ms
 ^C
 ```
 
@@ -312,7 +312,7 @@ Ping probes that fail with size 1472 and that work with size 1352, though, would
 To test MTU on macOS, use:
 
 ```sh
-ping -D -s 1472 midokura.com
+ping -D -s 1472 CompanyName.com
 ```
 
 If this fails, try smaller packet sizes, for example, 1400 or 1300, to find the maximum working size. Ensure the MTU value in the VPN configuration is set appropriately for your network.

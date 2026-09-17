@@ -457,7 +457,7 @@ kolla_bastion:
 | `registry_configure_insecure` | boolean | `true` | Register as insecure in Podman's `registries.conf` |
 | `registry_populate_images` | boolean | `false` | Automatically populate registry with OpenStack images |
 | `registry_source_registry` | string | `ghcr.io` | Source registry to pull images from |
-| `registry_source_namespace` | string | `midokura/openstack.kolla` | Source namespace |
+| `registry_source_namespace` | string | `CompanyName/openstack.kolla` | Source namespace |
 | `registry_image_tag_kolla` | string | `2025.1-ubuntu-noble` | Kolla image tag to mirror |
 | `registry_image_list` | list | 91 images | List of image names to populate |
 | `registry_image_list_file` | string | `""` | Path to a file with image names (overrides `registry_image_list`) |

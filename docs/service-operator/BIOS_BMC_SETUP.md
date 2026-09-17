@@ -4,7 +4,7 @@ sidebar_position: 32
 
 # Server BIOS and BMC Setup
 
-Required BIOS and BMC settings for all servers in the AIsware cluster. Complete these before installing the operating system.
+Required BIOS and BMC settings for all servers in the ProductName cluster. Complete these before installing the operating system.
 
 ## BMC configuration
 

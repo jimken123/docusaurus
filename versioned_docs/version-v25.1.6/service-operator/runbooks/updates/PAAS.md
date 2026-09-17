@@ -1,4 +1,4 @@
-# Update AIsware PaaS
+# Update ProductName PaaS
 
 Updating the Helm charts.
 

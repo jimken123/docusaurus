@@ -6,7 +6,7 @@ sidebar_position: 1
 
 This is the reference sheet for Phoenix, an end-to-end solution to operate private, multi-tenant AI factories. Operators will find below an overview of the materials, infrastructure, and other requirements, and an entry point to the procedure to provision and configure the system.
 
-Please contact support@midokura.com for more information.
+Please contact support@CompanyName.com for more information.
 
 ## System requirements
 
@@ -19,7 +19,7 @@ Note: documentation files referenced here are provided in a downloadable artefac
 - Storage. Operators are expected to provide a Ceph cluster, integrated in the infrastructure as defined in the blueprint. See more details in the [Environment setup](#environment-setup)
 - Set up a new Google Application that will be used as an SSO provider for the IaaS service. To follow this process, consult the
 [GOOGLE_SSO_SETUP](./service-operator/GOOGLE_SSO_SETUP.md).
-- Set up credentials for the private registry at ghcr.io/midokura. We will provide you with this token via secure means, and it will be required during the control plane installation process. More info at [GHCR_AUTHENTICATION](./service-operator/GHCR_AUTHENTICATION.md).
+- Set up credentials for the private registry at ghcr.io/CompanyName. We will provide you with this token via secure means, and it will be required during the control plane installation process. More info at [GHCR_AUTHENTICATION](./service-operator/GHCR_AUTHENTICATION.md).
 
 ## Overview
 

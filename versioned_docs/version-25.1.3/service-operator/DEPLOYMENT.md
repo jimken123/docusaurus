@@ -274,7 +274,7 @@ These are configured via environment variables only:
 
 Container image:
 
-- `IMAGE_NAME` - Container image name (default: `ghcr.io/midokura/gpu-infra-ansible`)
+- `IMAGE_NAME` - Container image name (default: `ghcr.io/CompanyName/gpu-infra-ansible`)
 - `IMAGE_TAG` - Container image tag (default: `release`)
 
 All other arguments are passed directly to `ansible-playbook`:

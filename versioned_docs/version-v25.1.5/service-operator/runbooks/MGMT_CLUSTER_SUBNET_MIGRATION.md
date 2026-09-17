@@ -36,7 +36,7 @@ metadata:
 spec:
   restartPolicy: Never
   imagePullSecrets:
-  - name: midokura-registry
+  - name: CompanyName-registry
   securityContext:
     fsGroup: 1000
     runAsNonRoot: false
@@ -44,7 +44,7 @@ spec:
       type: RuntimeDefault
   containers:
   - name: backup
-    image: ghcr.io/midokura/iaas-backup:latest
+    image: ghcr.io/CompanyName/iaas-backup:latest
     imagePullPolicy: Always
     command: ["sleep", "infinity"]
     env:
@@ -146,7 +146,7 @@ Finally exit shell mode.
 
 ### Start the subnet migration
 
-Run the provisioning script with `./scripts/platform-setup.sh -e migrate_mgt_cluster: true` to trigger the migration on an existing AIsware deployment.
+Run the provisioning script with `./scripts/platform-setup.sh -e migrate_mgt_cluster: true` to trigger the migration on an existing ProductName deployment.
 
 This variable gates the backup, teardown, and restore steps. **Normal deployments (no migration) are completely unaffected** — the variable defaults to `false` and all migration steps are skipped.
 
@@ -219,7 +219,7 @@ metadata:
 spec:
   restartPolicy: Never
   imagePullSecrets:
-  - name: midokura-registry
+  - name: CompanyName-registry
   securityContext:
     fsGroup: 1000
     runAsNonRoot: false
@@ -227,7 +227,7 @@ spec:
       type: RuntimeDefault
   containers:
   - name: backup
-    image: ghcr.io/midokura/iaas-backup:latest
+    image: ghcr.io/CompanyName/iaas-backup:latest
     imagePullPolicy: Always
     command: ["sleep", "infinity"]
     env:

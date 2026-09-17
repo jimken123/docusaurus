@@ -24,7 +24,7 @@ This document is the entry point for all AI Factory software update procedures. 
 Operators learn about new updates through:
 
 1. **Release Notifications:** Announcements sent to the `ai-factory-announce` mailing list.
-2. **Release Notes:** Published in the [AI Factory Documentation](https://docs.midokura.com/).
+2. **Release Notes:** Published in the [AI Factory Documentation](https://docs.CompanyName.com/).
 
 ## Distribution of Updates
 

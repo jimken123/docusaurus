@@ -103,7 +103,7 @@ autoinstall:
     install-server: true
   identity:
     hostname: router-0-host
-    realname: 'Midokura Ubuntu'
+    realname: 'CompanyName Ubuntu'
     username: ubuntu
     # mkpasswd --method=sha-512 ${PASSWORD}
     password: 'your-hashed-password-here'

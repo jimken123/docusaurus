@@ -98,7 +98,7 @@ PersistentKeepAlive = 25
 
 ```mermaid
 flowchart TD
-    Start([VPN接続の問題]) --> NetCheck{"インターネットに到達可能?\nping midokura.com"}
+    Start([VPN接続の問題]) --> NetCheck{"インターネットに到達可能?\nping CompanyName.com"}
     NetCheck -- いいえ --> NetFail["VPNのトラブルシューティングの前に、\nインターネット接続の問題を修正してください。"]
     NetCheck -- はい --> WGCheck{"WireGuardの状態:\nlatest handshakeが表示されていて、受信バイト数が0より多い?\n参照: Step 2"}
     WGCheck -- "handshakeの表示がない、または\n受信バイト数が0" --> KeyFail["鍵の不一致\nユーザーの公開鍵が正しく登録されているか確認\n参照: Step 2"]
@@ -124,7 +124,7 @@ WireGuardのエンドポイントにpingし、ネットワークの接続性を�
 
 ```bash
 # まず、インターネットへの接続を確認します。
-ping midokura.com
+ping CompanyName.com
 # 次に、VPNサーバーにpingしてみます。
 ping vpn.example.com
 ```
@@ -222,7 +222,7 @@ VPN経由でリソースへアクセスするには、DNSが正しく設定さ�
 
 ```bash
 # 構成にあるVPNサーバーを経由した公開ドメイン名による解決テスト
-nslookup midokura.com 172.31.0.254
+nslookup CompanyName.com 172.31.0.254
 
 # "tld"サブドメインが解決できる事を確認 (WireGuard DNS設定に存在する場合)
 nslookup myvm.tenant.example.tld 172.31.0.254
@@ -319,14 +319,14 @@ IPv4ヘッダーは20バイト、ICMPヘッダーは8バイトがパケット長
 出力例:
 
 ```bash
-ping -4 -M do -s 1352 midokura.com
-PING midokura.com (198.51.100.42) 1472(1500) bytes of data.
+ping -4 -M do -s 1352 CompanyName.com
+PING CompanyName.com (198.51.100.42) 1472(1500) bytes of data.
 From _gateway (192.168.1.1) icmp_seq=1 Frag needed and DF set (mtu = 1380)
 ping: sendmsg: Message too long
 ^C
-ping -M do -s 1352 midokura.com
-PING midokura.com (198.51.100.42) 1352(1380) bytes of data.
-1360 bytes from 42-100.midokura.com (198.51.100.42): icmp_seq=1 ttl=47 time=12 ms
+ping -M do -s 1352 CompanyName.com
+PING CompanyName.com (198.51.100.42) 1352(1380) bytes of data.
+1360 bytes from 42-100.CompanyName.com (198.51.100.42): icmp_seq=1 ttl=47 time=12 ms
 ^C
 ```
 
@@ -347,7 +347,7 @@ PING midokura.com (198.51.100.42) 1352(1380) bytes of data.
 macOSでMTUをテストするには、次のコマンドを実行してください。
 
 ```sh
-ping -D -s 1472 midokura.com
+ping -D -s 1472 CompanyName.com
 ```
 
 失敗する場合は、1400や1300などより小さいパケット長を指定し、正常に通信できる最大パケット長を確認してください。

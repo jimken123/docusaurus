@@ -4,19 +4,19 @@ sidebar_position: 3
 
 # Software Updates Overview
 
-Overview of all AIsware software update procedures.
+Overview of all ProductName software update procedures.
 
-This document is the entry point for all AIsware software update procedures. It describes what components exist, how updates are discovered, and which updates require downtime.
+This document is the entry point for all ProductName software update procedures. It describes what components exist, how updates are discovered, and which updates require downtime.
 
 ## Component Inventory
 
 | Component | Update Frequency |
 |---|---|
-| **AIsware PaaS (iaas-console / observability)** | Each minor AIsware release |
+| **ProductName PaaS (iaas-console / observability)** | Each minor ProductName release |
 | **Management cluster** | As needed; typically follows K3s releases |
-| **OpenStack** | Each major AIsware release |
+| **OpenStack** | Each major ProductName release |
 | **Inventory / Configuration** | As needed for config changes |
-| **Guest images** | Each AIsware release |
+| **Guest images** | Each ProductName release |
 | **Node OS (Control and Compute Nodes)** | Point releases, kernel security patches |
 
 ## Discovery of Updates
@@ -24,7 +24,7 @@ This document is the entry point for all AIsware software update procedures. It 
 Operators learn about new updates through:
 
 1. **Release Notifications:** Announcements sent to the `ai-factory-announce` mailing list.
-2. **Release Notes:** Published in the [AIsware Documentation](https://docs.midokura.com/).
+2. **Release Notes:** Published in the [ProductName Documentation](https://docs.CompanyName.com/).
 
 ## Distribution of Updates
 
@@ -47,7 +47,7 @@ Updates are distributed through the following channels:
 
 | Update Type | Downtime? | Notes |
 |---|---|---|
-| AIsware PaaS (iaas-console / observability) | **No downtime** | Rolling K8s deployment; brief pod restart only |
+| ProductName PaaS (iaas-console / observability) | **No downtime** | Rolling K8s deployment; brief pod restart only |
 | Management cluster update | **Management plane only** | OpenStack API and workloads unaffected; iaas-console & observability platform briefly unavailable |
 | OpenStack version upgrade | **Maintenance window required** | Service restarts, haproxy brief outage; notify tenants |
 | Configuration-only changes (inventory) | **Depends on what changed** | See [CONFIGURATION](updates/CONFIGURATION) for per-variable impact |

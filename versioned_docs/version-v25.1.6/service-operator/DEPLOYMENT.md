@@ -11,8 +11,8 @@ The deployment scripts handle the complete setup of OpenStack, management cluste
 
 **Getting the Release Package:**
 
-The release package URL and its checksum URL are provided in the release email sent to `all@midokura.com`
-with subject **"AIsware v\{VERSION\} released"**.
+The release package URL and its checksum URL are provided in the release email sent to `all@CompanyName.com`
+with subject **"ProductName v\{VERSION\} released"**.
 
 ## Before You Start
 
@@ -452,7 +452,7 @@ Expected: the SSH session opens successfully. If the connection times out, verif
 5. From inside the VM, verify outbound internet connectivity:
 
 ```bash
-curl -vL --max-time 10 https://docs.midokura.com -o /dev/null && echo "OK"
+curl -vL --max-time 10 https://docs.CompanyName.com -o /dev/null && echo "OK"
 ```
 
 Expected: `OK`. If the request times out, the VM's default route or NAT is not configured correctly.
@@ -554,7 +554,7 @@ These are configured via environment variables only:
 
 Container image:
 
-- `IMAGE_NAME` - Container image name (default: `ghcr.io/midokura/gpu-infra-ansible`)
+- `IMAGE_NAME` - Container image name (default: `ghcr.io/CompanyName/gpu-infra-ansible`)
 - `IMAGE_TAG` - Container image tag (default: `release`)
 
 All other arguments are passed directly to `ansible-playbook`:
