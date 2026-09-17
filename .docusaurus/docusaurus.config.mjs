@@ -26,8 +26,8 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://jimken123.github.io",
   "baseUrl": "/docusaurus/",
-  "organizationName": "jimken123.github.io",
-  "projectName": "/docusaurus",
+  "organizationName": "docusaurus",
+  "projectName": "jimken123.github.io",
   "trailingSlash": false,
   "onBrokenLinks": "warn",
   "i18n": {
@@ -49,7 +49,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "includeCurrentVersion": false,
+          "includeCurrentVersion": true,
           "exclude": [
             "**/operations/**"
           ]
@@ -102,11 +102,6 @@ export default {
           "position": "left"
         },
         {
-          "to": "/upgrade-guide",
-          "label": "Upgrade Guide",
-          "position": "left"
-        },
-        {
           "type": "docsVersionDropdown",
           "position": "right",
           "dropdownItemsBefore": [],
@@ -123,7 +118,7 @@ export default {
     "footer": {
       "logo": {
         "alt": "foo",
-        "src": "img/white-logo.png",
+        "src": "img/logo-long1.png",
         "href": "https://example.com"
       },
       "copyright": "©2026 Foo",

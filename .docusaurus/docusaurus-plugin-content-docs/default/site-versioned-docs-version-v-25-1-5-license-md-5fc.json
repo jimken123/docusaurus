@@ -1,7 +1,7 @@
 {
   "id": "license",
   "title": "Licenses",
-  "description": "Third-party Notices for Midokura, AIsware.",
+  "description": "Third-party Notices for CompanyName, ProductName.",
   "source": "@site/versioned_docs/version-v25.1.5/license.md",
   "sourceDirName": ".",
   "slug": "/license",

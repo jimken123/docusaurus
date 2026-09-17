@@ -1,7 +1,7 @@
 {
   "id": "service-operator/BIOS_BMC_SETUP",
   "title": "Server BIOS and BMC Setup",
-  "description": "Required BIOS and BMC settings for all servers in the AIsware cluster. Complete these before installing the operating system.",
+  "description": "Required BIOS and BMC settings for all servers in the ProductName cluster. Complete these before installing the operating system.",
   "source": "@site/versioned_docs/version-v25.1.6/service-operator/BIOS_BMC_SETUP.md",
   "sourceDirName": "service-operator",
   "slug": "/service-operator/BIOS_BMC_SETUP",

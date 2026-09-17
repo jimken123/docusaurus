@@ -1,7 +1,7 @@
 {
   "id": "service-operator/runbooks/SOFTWARE_UPDATES",
   "title": "Software Updates Overview",
-  "description": "Overview of all AIsware software update procedures.",
+  "description": "Overview of all ProductName software update procedures.",
   "source": "@site/versioned_docs/version-v25.1.6/service-operator/runbooks/SOFTWARE_UPDATES.md",
   "sourceDirName": "service-operator/runbooks",
   "slug": "/service-operator/runbooks/SOFTWARE_UPDATES",

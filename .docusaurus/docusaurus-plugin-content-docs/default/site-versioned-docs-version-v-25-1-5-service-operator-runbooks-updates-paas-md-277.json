@@ -1,6 +1,6 @@
 {
   "id": "service-operator/runbooks/updates/PAAS",
-  "title": "Update AIsware PaaS",
+  "title": "Update ProductName PaaS",
   "description": "Updating the Helm charts.",
   "source": "@site/versioned_docs/version-v25.1.5/service-operator/runbooks/updates/PAAS.md",
   "sourceDirName": "service-operator/runbooks/updates",

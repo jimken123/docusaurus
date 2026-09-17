@@ -1,48 +1,48 @@
 {
   "permalink": "/docusaurus/blog/v25.1.6",
   "source": "@site/blog/v25.1.6-releasenotes.md",
-  "title": "AIsware v25.1.6",
-  "description": "Version 25.1.6 of AIsware is now available.",
+  "title": "ProductName v25.1.6",
+  "description": "Version 25.1.6 of ProductName is now available.",
   "date": "2026-09-15T00:00:00.000Z",
   "tags": [
     {
       "inline": false,
-      "label": "AIsware",
-      "permalink": "/docusaurus/blog/tags/aisware",
-      "description": "AIsware tag description"
+      "label": "ProductName",
+      "permalink": "/docusaurus/blog/tags/ProductName",
+      "description": "ProductName tag description"
     }
   ],
   "readingTime": 1.83,
   "hasTruncateMarker": true,
   "authors": [
     {
-      "name": "Midokura Team",
-      "title": "Midokura Team",
-      "url": "https://midokura.com",
+      "name": "Jim Kennedy",
+      "title": "Docs @ CompanyName",
+      "url": "https://github.com/jimken123",
       "page": {
-        "permalink": "/docusaurus/blog/authors/midoteam"
+        "permalink": "/docusaurus/blog/authors/jimkennedy"
       },
       "socials": {
-        "github": "https://github.com/midokura"
+        "github": "https://github.com/jimken123"
       },
-      "imageURL": "https://midokura.com/wp-content/uploads/2020/03/cropped-favicon-midokura-32x32.png",
-      "key": "midoteam"
+      "imageURL": "https://avatars.githubusercontent.com/u/45041451?v=4",
+      "key": "jimkennedy"
     }
   ],
   "frontMatter": {
     "slug": "v25.1.6",
-    "title": "AIsware v25.1.6",
+    "title": "ProductName v25.1.6",
     "date": "2026-09-15T00:00:00.000Z",
     "authors": [
-      "midoteam"
+      "jimkennedy"
     ],
     "tags": [
-      "aisware"
+      "ProductName"
     ]
   },
   "unlisted": false,
   "nextItem": {
-    "title": "AIsware v25.1.5",
+    "title": "ProductName v25.1.5",
     "permalink": "/docusaurus/blog/v25.1.5"
   }
 }
