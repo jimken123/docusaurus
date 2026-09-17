@@ -103,7 +103,6 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Release Notes', position: 'left'},
-          {to: '/upgrade-guide', label: 'Upgrade Guide', position: 'left'},
           //{
           //  type: 'localeDropdown',
           //  position: 'left',
