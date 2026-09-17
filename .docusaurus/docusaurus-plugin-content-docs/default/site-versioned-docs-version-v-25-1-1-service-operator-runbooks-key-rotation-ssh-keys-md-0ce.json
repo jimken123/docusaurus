@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/key-rotation/SSH_KEYS",
+  "title": "Rotate SSH Keys",
+  "description": "This runbook rotates the Ed25519 key pair used to access all infrastructure hosts (bare-metal nodes, management cluster VMs, Hedgehog fabric). Rotation uses a zero-downtime approach: the new key is added to all hosts before the old key is removed.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/key-rotation/SSH_KEYS.md",
+  "sourceDirName": "service-operator/runbooks/key-rotation",
+  "slug": "/service-operator/runbooks/key-rotation/SSH_KEYS",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/SSH_KEYS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rotate Ansible Vault Passwords",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/ANSIBLE_VAULT"
+  },
+  "next": {
+    "title": "Rotate TLS Certificates",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/TLS_CERTIFICATES"
+  }
+}

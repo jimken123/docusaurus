@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/ADDONS_API_REFERENCE",
+  "title": "Cluster Add-ons API Reference",
+  "description": "Managing add-ons on Kubernetes clusters with API endpoints.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/ADDONS_API_REFERENCE.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/ADDONS_API_REFERENCE",
+  "permalink": "/docs/v25.1.1/service-operator/ADDONS_API_REFERENCE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cluster Add-ons",
+    "permalink": "/docs/v25.1.1/service-operator/ADDONS_OPERATOR_GUIDE"
+  },
+  "next": {
+    "title": "OS Requirements",
+    "permalink": "/docs/v25.1.1/service-operator/OS_REQUIREMENTS"
+  }
+}

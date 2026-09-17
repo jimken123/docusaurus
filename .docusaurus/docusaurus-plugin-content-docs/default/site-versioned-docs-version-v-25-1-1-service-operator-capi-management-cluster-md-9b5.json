@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/CAPI_MANAGEMENT_CLUSTER",
+  "title": "CAPI Management Cluster",
+  "description": "Cluster API (CAPI) runs in the management cluster and is used by OpenStack Magnum to provision tenant Kubernetes clusters.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/CAPI_MANAGEMENT_CLUSTER.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/CAPI_MANAGEMENT_CLUSTER",
+  "permalink": "/docs/v25.1.1/service-operator/CAPI_MANAGEMENT_CLUSTER",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 45,
+  "frontMatter": {
+    "sidebar_position": 45
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Key Management Policy",
+    "permalink": "/docs/v25.1.1/service-operator/KEY_MANAGEMENT_POLICY"
+  },
+  "next": {
+    "title": "Deployment Scripts",
+    "permalink": "/docs/v25.1.1/service-operator/DEPLOYMENT"
+  }
+}

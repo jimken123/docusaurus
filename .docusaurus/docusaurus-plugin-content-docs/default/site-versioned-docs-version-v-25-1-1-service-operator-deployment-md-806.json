@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/DEPLOYMENT",
+  "title": "Deployment Scripts",
+  "description": "Deploying GPU infrastructure clusters",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/DEPLOYMENT.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/DEPLOYMENT",
+  "permalink": "/docs/v25.1.1/service-operator/DEPLOYMENT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_position": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CAPI Management Cluster",
+    "permalink": "/docs/v25.1.1/service-operator/CAPI_MANAGEMENT_CLUSTER"
+  },
+  "next": {
+    "title": "GitHub Container Registry (GHCR) Authentication",
+    "permalink": "/docs/v25.1.1/service-operator/GHCR_AUTHENTICATION"
+  }
+}

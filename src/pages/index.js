@@ -58,7 +58,7 @@ function Home() {
     >
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title"><Translate>Midokura AIsware</Translate></h1>
+          <h1 className="hero__title"><Translate>CompanyName ProductName</Translate></h1>
           <p className="hero__subtitle"><Translate>High-end GPU servers for HPC and AI workloads delivered to your doorstep</Translate></p>
           <img
             className={clsx('no-auto-height', styles.heroImage)}

@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/CEPH_NODE_MAINTENANCE",
+  "title": "Ceph node maintenance",
+  "description": "Safe procedure for taking a Ceph storage node offline and returning it to service",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/CEPH_NODE_MAINTENANCE.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/CEPH_NODE_MAINTENANCE",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/CEPH_NODE_MAINTENANCE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CAPI cluster health alerts",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS"
+  },
+  "next": {
+    "title": "Deleting orphaned tenant clusters",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/DELETE_ORPHANED_CLUSTERS"
+  }
+}

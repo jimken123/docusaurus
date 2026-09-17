@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/runbooks/KEY_ROTATION",
+  "title": "Key Rotation Overview",
+  "description": "This document is the entry point for all AI Factory key rotation procedures. It describes which key types exist, their rotation schedule, and which rotations require downtime. The runbooks for those procedures are linked below.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/KEY_ROTATION.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/KEY_ROTATION",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/KEY_ROTATION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Software Updates Overview",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/SOFTWARE_UPDATES"
+  },
+  "next": {
+    "title": "CAPI cluster health alerts",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS"
+  }
+}

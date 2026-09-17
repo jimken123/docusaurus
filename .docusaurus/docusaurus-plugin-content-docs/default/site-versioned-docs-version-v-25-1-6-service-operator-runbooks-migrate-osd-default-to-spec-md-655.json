@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/MIGRATE_OSD_DEFAULT_TO_SPEC",
+  "title": "Migrating LVM OSDs to Raw BlueStore",
+  "description": "Migrating LVM-backed OSDs to raw BlueStore specs",
+  "source": "@site/versioned_docs/version-v25.1.6/service-operator/runbooks/MIGRATE_OSD_DEFAULT_TO_SPEC.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/MIGRATE_OSD_DEFAULT_TO_SPEC",
+  "permalink": "/docs/service-operator/runbooks/MIGRATE_OSD_DEFAULT_TO_SPEC",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.6",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Management Cluster Subnet Migration",
+    "permalink": "/docs/service-operator/runbooks/MGMT_CLUSTER_SUBNET_MIGRATION"
+  },
+  "next": {
+    "title": "Neutron L3 agent recovery",
+    "permalink": "/docs/service-operator/runbooks/NEUTRON_L3_AGENT_RECOVERY"
+  }
+}

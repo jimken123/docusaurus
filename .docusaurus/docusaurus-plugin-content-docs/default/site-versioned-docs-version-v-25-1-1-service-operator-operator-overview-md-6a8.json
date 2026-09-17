@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/OPERATOR_OVERVIEW",
+  "title": "Operator Overview",
+  "description": "Operator Overview for AI Factory",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/OPERATOR_OVERVIEW.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/OPERATOR_OVERVIEW",
+  "permalink": "/docs/v25.1.1/service-operator/OPERATOR_OVERVIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Service Operator",
+    "permalink": "/docs/v25.1.1/category/service-operator"
+  },
+  "next": {
+    "title": "Runbooks",
+    "permalink": "/docs/v25.1.1/category/runbooks"
+  }
+}

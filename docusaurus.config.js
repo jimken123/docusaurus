@@ -14,7 +14,7 @@ const config = {
     mermaid: true,
   },
 
-  title: 'Midokura AIsware',
+  title: 'CompanyName ProductName',
   tagline: 'fdkgfdlgdlfghfldgd',
   favicon: 'img/favicon.ico',
 

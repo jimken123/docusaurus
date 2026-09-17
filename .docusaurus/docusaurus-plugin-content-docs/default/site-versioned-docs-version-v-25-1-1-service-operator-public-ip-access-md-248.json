@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/PUBLIC_IP_ACCESS",
+  "title": "Public IP Access",
+  "description": "Setting up the public IP access",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/PUBLIC_IP_ACCESS.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/PUBLIC_IP_ACCESS",
+  "permalink": "/docs/v25.1.1/service-operator/PUBLIC_IP_ACCESS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 80,
+  "frontMatter": {
+    "sidebar_position": 80
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operator VPN: Adding operators to the WireGuard configuration",
+    "permalink": "/docs/v25.1.1/service-operator/OPERATOR_VPN_CONFIGURATION"
+  },
+  "next": {
+    "title": "Router Services Configuration",
+    "permalink": "/docs/v25.1.1/service-operator/ROUTER_BOX_CONFIGURATION"
+  }
+}

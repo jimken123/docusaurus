@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/runbooks/SOFTWARE_UPDATES",
+  "title": "Software Updates Overview",
+  "description": "Overview of all AI Factory software update procedures.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/SOFTWARE_UPDATES.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/SOFTWARE_UPDATES",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/SOFTWARE_UPDATES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rotate TLS Certificates",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/TLS_CERTIFICATES"
+  },
+  "next": {
+    "title": "Key Rotation Overview",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/KEY_ROTATION"
+  }
+}

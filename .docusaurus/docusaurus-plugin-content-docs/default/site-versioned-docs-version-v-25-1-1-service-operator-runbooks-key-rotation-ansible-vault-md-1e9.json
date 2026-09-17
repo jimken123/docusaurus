@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/key-rotation/ANSIBLE_VAULT",
+  "title": "Rotate Ansible Vault Passwords",
+  "description": "Rotating the Ansible Vault password",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/key-rotation/ANSIBLE_VAULT.md",
+  "sourceDirName": "service-operator/runbooks/key-rotation",
+  "slug": "/service-operator/runbooks/key-rotation/ANSIBLE_VAULT",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/ANSIBLE_VAULT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rotate WireGuard VPN Keys",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS"
+  },
+  "next": {
+    "title": "Rotate SSH Keys",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/SSH_KEYS"
+  }
+}

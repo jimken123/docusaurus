@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/MANAGEMENT_TLS",
+  "title": "Management TLS",
+  "description": "Configuring Let's Encrypt certificates via Azure DNS for IaaS Console and OBS",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/MANAGEMENT_TLS.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/MANAGEMENT_TLS",
+  "permalink": "/docs/v25.1.1/service-operator/MANAGEMENT_TLS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 65,
+  "frontMatter": {
+    "sidebar_position": 65
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IPMI (Intelligent Platform Management Interface) and SNMP (Simple Network Management Protocol) Observability Setup",
+    "permalink": "/docs/v25.1.1/service-operator/IPMI_SNMP_OBSERVABILITY_SETUP"
+  },
+  "next": {
+    "title": "Operator API Usage Guide",
+    "permalink": "/docs/v25.1.1/service-operator/OPERATOR_API_GUIDE"
+  }
+}

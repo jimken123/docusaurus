@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/updates/NODES",
+  "title": "Re-provision Node OS",
+  "description": "Re-provisioning a cluster node via PXE.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/updates/NODES.md",
+  "sourceDirName": "service-operator/runbooks/updates",
+  "slug": "/service-operator/runbooks/updates/NODES",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/NODES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update Management Cluster",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/MANAGEMENT_CLUSTER"
+  },
+  "next": {
+    "title": "Update OpenStack",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/OPENSTACK"
+  }
+}

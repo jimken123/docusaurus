@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/key-rotation/TLS_CERTIFICATES",
+  "title": "Rotate TLS Certificates",
+  "description": "Rotating the TLS certificates",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/key-rotation/TLS_CERTIFICATES.md",
+  "sourceDirName": "service-operator/runbooks/key-rotation",
+  "slug": "/service-operator/runbooks/key-rotation/TLS_CERTIFICATES",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/TLS_CERTIFICATES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rotate SSH Keys",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/SSH_KEYS"
+  },
+  "next": {
+    "title": "Software Updates Overview",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/SOFTWARE_UPDATES"
+  }
+}

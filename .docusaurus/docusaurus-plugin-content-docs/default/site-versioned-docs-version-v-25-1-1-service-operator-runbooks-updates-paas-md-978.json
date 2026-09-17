@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/updates/PAAS",
+  "title": "Update AI Factory PaaS",
+  "description": "Updating the Helm charts.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/updates/PAAS.md",
+  "sourceDirName": "service-operator/runbooks/updates",
+  "slug": "/service-operator/runbooks/updates/PAAS",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/PAAS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update OpenStack",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/OPENSTACK"
+  },
+  "next": {
+    "title": "Key Rotation Runbooks",
+    "permalink": "/docs/v25.1.1/category/key-rotation-runbooks"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "user/PUBLIC-IP-ACCESS",
+  "title": "Public IP Access",
+  "description": "Setting up your public IP access",
+  "source": "@site/versioned_docs/version-v25.1.1/user/PUBLIC-IP-ACCESS.md",
+  "sourceDirName": "user",
+  "slug": "/user/PUBLIC-IP-ACCESS",
+  "permalink": "/docs/v25.1.1/user/PUBLIC-IP-ACCESS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Observability for Users",
+    "permalink": "/docs/v25.1.1/user/OBSERVABILITY"
+  },
+  "next": {
+    "title": "SSH Key Registration",
+    "permalink": "/docs/v25.1.1/user/SSH_KEY_REGISTRATION"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/INSTALL_BAREMETAL_NODE",
+  "title": "Bare-Metal Node Enrollment and Server Creation",
+  "description": "Working with bare-metal nodes and servers.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/INSTALL_BAREMETAL_NODE.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/INSTALL_BAREMETAL_NODE",
+  "permalink": "/docs/v25.1.1/service-operator/INSTALL_BAREMETAL_NODE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "sidebar_position": 25
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Ceph",
+    "permalink": "/docs/v25.1.1/service-operator/CEPH_SETUP"
+  },
+  "next": {
+    "title": "Azure SSO Setup Guide",
+    "permalink": "/docs/v25.1.1/service-operator/AZURE_SSO_SETUP"
+  }
+}

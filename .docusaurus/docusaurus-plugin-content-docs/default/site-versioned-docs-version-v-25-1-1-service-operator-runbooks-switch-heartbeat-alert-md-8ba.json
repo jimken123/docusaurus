@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/SWITCH_HEARTBEAT_ALERT",
+  "title": "Switch heartbeat alert",
+  "description": "Responding to Switch Heartbeat Evaluation alerts caused by a hedgehog-agent crash loop",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/SWITCH_HEARTBEAT_ALERT.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/SWITCH_HEARTBEAT_ALERT",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/SWITCH_HEARTBEAT_ALERT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Router Host Log Access",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/ROUTER_LOG_ACCESS"
+  },
+  "next": {
+    "title": "Tenant service termination — data disposal procedure",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/TENANT_SERVICE_TERMINATION"
+  }
+}

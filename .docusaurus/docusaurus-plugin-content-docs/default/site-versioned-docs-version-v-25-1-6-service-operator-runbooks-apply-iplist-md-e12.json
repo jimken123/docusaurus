@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/APPLY_IPLIST",
+  "title": "Apply IP Whitelist Changes",
+  "description": "This script handles all the necessary steps to ship a new iplist file to the OpenWRT firewall configuration on the router (172.20.0.1). It diffs the incoming file against the one currently deployed on the router, copies it over on confirmation, and triggers a live reload of the ipsets.",
+  "source": "@site/versioned_docs/version-v25.1.6/service-operator/runbooks/APPLY_IPLIST.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/APPLY_IPLIST",
+  "permalink": "/docs/service-operator/runbooks/APPLY_IPLIST",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.6",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VPN Agent Reconciliation Failure",
+    "permalink": "/docs/service-operator/runbooks/VPN_RECONCILIATION_FAILURE"
+  },
+  "next": {
+    "title": "CAPI cluster health alerts",
+    "permalink": "/docs/service-operator/runbooks/CAPI_CLUSTER_HEALTH_ALERTS"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "user/GPU_SERVER_VERIFICATION",
+  "title": "GPU Server Verification",
+  "description": "Verifying GPU server configuration.",
+  "source": "@site/versioned_docs/version-v25.1.1/user/GPU_SERVER_VERIFICATION.md",
+  "sourceDirName": "user",
+  "slug": "/user/GPU_SERVER_VERIFICATION",
+  "permalink": "/docs/v25.1.1/user/GPU_SERVER_VERIFICATION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bare Metal Management",
+    "permalink": "/docs/v25.1.1/user/BAREMETAL_MANAGEMENT"
+  },
+  "next": {
+    "title": "Kubernetes Clusters",
+    "permalink": "/docs/v25.1.1/user/KUBERNETES_CLUSTER_REFERENCE"
+  }
+}

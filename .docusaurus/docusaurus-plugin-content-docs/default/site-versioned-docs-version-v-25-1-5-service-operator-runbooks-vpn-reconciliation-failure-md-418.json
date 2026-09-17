@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/runbooks/VPN_RECONCILIATION_FAILURE",
+  "title": "VPN Agent Reconciliation Failure",
+  "description": "Responding to the VPN Agent Reconciliation Failure Grafana alert.",
+  "source": "@site/versioned_docs/version-v25.1.5/service-operator/runbooks/VPN_RECONCILIATION_FAILURE.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/VPN_RECONCILIATION_FAILURE",
+  "permalink": "/docs/v25.1.5/service-operator/runbooks/VPN_RECONCILIATION_FAILURE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.5",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Key Rotation Overview",
+    "permalink": "/docs/v25.1.5/service-operator/runbooks/KEY_ROTATION"
+  },
+  "next": {
+    "title": "Apply IP Whitelist Changes",
+    "permalink": "/docs/v25.1.5/service-operator/runbooks/APPLY_IPLIST"
+  }
+}

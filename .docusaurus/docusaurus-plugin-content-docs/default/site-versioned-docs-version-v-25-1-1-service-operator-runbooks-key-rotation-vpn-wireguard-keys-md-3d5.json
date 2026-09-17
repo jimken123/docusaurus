@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS",
+  "title": "Rotate WireGuard VPN Keys",
+  "description": "This runbook rotates the WireGuard private key for a tenant VPN server. Rotation is zero-touch on the server side: update the Barbican secret and the server picks it up automatically within 60 seconds — no SSH access, no restart, no signal required.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS.md",
+  "sourceDirName": "service-operator/runbooks/key-rotation",
+  "slug": "/service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/VPN_WIREGUARD_KEYS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Key Rotation Runbooks",
+    "permalink": "/docs/v25.1.1/category/key-rotation-runbooks"
+  },
+  "next": {
+    "title": "Rotate Ansible Vault Passwords",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/key-rotation/ANSIBLE_VAULT"
+  }
+}

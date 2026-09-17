@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/GET_PROVISIONING_LOGS",
+  "title": "Getting provisioning logs",
+  "description": "Getting provisioning logs",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/GET_PROVISIONING_LOGS.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/GET_PROVISIONING_LOGS",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/GET_PROVISIONING_LOGS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deleting orphaned tenant clusters",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/DELETE_ORPHANED_CLUSTERS"
+  },
+  "next": {
+    "title": "Hedgehog switch credentials update",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/HEDGEHOG_SWITCH_CREDENTIALS"
+  }
+}

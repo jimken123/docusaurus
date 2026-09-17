@@ -1,0 +1,23 @@
+{
+  "id": "user/GPU_SERVER_VERIFICATION",
+  "title": "GPU Server Verification",
+  "description": "Verifying GPU server configuration.",
+  "source": "@site/versioned_docs/version-v25.1.6/user/GPU_SERVER_VERIFICATION.md",
+  "sourceDirName": "user",
+  "slug": "/user/GPU_SERVER_VERIFICATION",
+  "permalink": "/docs/user/GPU_SERVER_VERIFICATION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.6",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Block Storage Setup",
+    "permalink": "/docs/user/BLOCK_STORAGE_SETUP"
+  },
+  "next": {
+    "title": "Kubernetes Clusters",
+    "permalink": "/docs/user/KUBERNETES_CLUSTER_REFERENCE"
+  }
+}

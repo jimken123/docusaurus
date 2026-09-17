@@ -1,0 +1,23 @@
+{
+  "id": "user/VM_MANAGEMENT",
+  "title": "VM Management",
+  "description": "Creating and managing virtual machines",
+  "source": "@site/versioned_docs/version-v25.1.1/user/VM_MANAGEMENT.md",
+  "sourceDirName": "user",
+  "slug": "/user/VM_MANAGEMENT",
+  "permalink": "/docs/v25.1.1/user/VM_MANAGEMENT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SSH Key Registration",
+    "permalink": "/docs/v25.1.1/user/SSH_KEY_REGISTRATION"
+  },
+  "next": {
+    "title": "VPN Configuration as a Tenant User",
+    "permalink": "/docs/v25.1.1/user/VPN_CONFIGURATION"
+  }
+}

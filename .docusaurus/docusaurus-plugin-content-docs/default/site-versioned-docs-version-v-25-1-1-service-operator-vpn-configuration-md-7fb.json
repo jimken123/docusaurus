@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/VPN_CONFIGURATION",
+  "title": "VPN Configuration as a Service Operator",
+  "description": "Setting up the VPN as a Service Operator.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/VPN_CONFIGURATION.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/VPN_CONFIGURATION",
+  "permalink": "/docs/v25.1.1/service-operator/VPN_CONFIGURATION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 90,
+  "frontMatter": {
+    "sidebar_position": 90
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Router Services Configuration",
+    "permalink": "/docs/v25.1.1/service-operator/ROUTER_BOX_CONFIGURATION"
+  },
+  "next": {
+    "title": "Cluster Add-ons",
+    "permalink": "/docs/v25.1.1/service-operator/ADDONS_OPERATOR_GUIDE"
+  }
+}

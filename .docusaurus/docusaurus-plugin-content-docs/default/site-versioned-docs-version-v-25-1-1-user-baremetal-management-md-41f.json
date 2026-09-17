@@ -1,0 +1,23 @@
+{
+  "id": "user/BAREMETAL_MANAGEMENT",
+  "title": "Bare Metal Management",
+  "description": "Provisioning and managing bare metal servers",
+  "source": "@site/versioned_docs/version-v25.1.1/user/BAREMETAL_MANAGEMENT.md",
+  "sourceDirName": "user",
+  "slug": "/user/BAREMETAL_MANAGEMENT",
+  "permalink": "/docs/v25.1.1/user/BAREMETAL_MANAGEMENT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cluster Add-ons",
+    "permalink": "/docs/v25.1.1/user/ADDONS_USER_GUIDE"
+  },
+  "next": {
+    "title": "GPU Server Verification",
+    "permalink": "/docs/v25.1.1/user/GPU_SERVER_VERIFICATION"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/IPMI_SNMP_OBSERVABILITY_SETUP",
+  "title": "IPMI (Intelligent Platform Management Interface) and SNMP (Simple Network Management Protocol) Observability Setup",
+  "description": "Configuring hardware and network monitoring for bare-metal servers and switches.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/IPMI_SNMP_OBSERVABILITY_SETUP.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/IPMI_SNMP_OBSERVABILITY_SETUP",
+  "permalink": "/docs/v25.1.1/service-operator/IPMI_SNMP_OBSERVABILITY_SETUP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "sidebar_position": 60
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Container Registry (GHCR) Authentication",
+    "permalink": "/docs/v25.1.1/service-operator/GHCR_AUTHENTICATION"
+  },
+  "next": {
+    "title": "Management TLS",
+    "permalink": "/docs/v25.1.1/service-operator/MANAGEMENT_TLS"
+  }
+}

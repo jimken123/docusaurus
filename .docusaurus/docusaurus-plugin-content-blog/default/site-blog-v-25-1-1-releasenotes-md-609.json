@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/v25.1.1",
+  "source": "@site/blog/v25.1.1-releasenotes.md",
+  "title": "AI Factory v25.1.1",
+  "description": "Version 25.1.1 of AI Factory is now available.",
+  "date": "2026-05-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "aifactory",
+      "permalink": "/blog/tags/aifactory"
+    }
+  ],
+  "readingTime": 0.27,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Midokura Team",
+      "title": "Midokura Team",
+      "url": "https://midokura.com",
+      "page": {
+        "permalink": "/blog/authors/midoteam"
+      },
+      "socials": {
+        "github": "https://github.com/midokura"
+      },
+      "imageURL": "https://midokura.com/wp-content/uploads/2020/03/cropped-favicon-midokura-32x32.png",
+      "key": "midoteam"
+    }
+  ],
+  "frontMatter": {
+    "slug": "v25.1.1",
+    "title": "AI Factory v25.1.1",
+    "date": "2026-05-15T00:00:00.000Z",
+    "authors": [
+      "midoteam"
+    ],
+    "tags": [
+      "aifactory"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "AI Factory v25.1.2",
+    "permalink": "/blog/v25.1.2"
+  },
+  "nextItem": {
+    "title": "AI Factory v25.1.0",
+    "permalink": "/blog/v25.1.0"
+  }
+}

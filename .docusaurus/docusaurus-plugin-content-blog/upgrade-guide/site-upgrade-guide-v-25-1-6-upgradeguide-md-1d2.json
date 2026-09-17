@@ -1,0 +1,48 @@
+{
+  "permalink": "/upgrade-guide/v25.1.6",
+  "source": "@site/upgrade-guide/v25.1.6-upgradeguide.md",
+  "title": "Upgrade to v25.1.6",
+  "description": "No manual upgrade steps are required. Upgrading to 25.1.6 from 25.1.5 is a",
+  "date": "2026-09-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "AIsware",
+      "permalink": "/upgrade-guide/tags/aisware",
+      "description": "AIsware tag description"
+    }
+  ],
+  "readingTime": 0.09,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Midokura Team",
+      "title": "Midokura Team",
+      "url": "https://midokura.com",
+      "page": {
+        "permalink": "/upgrade-guide/authors/midoteam"
+      },
+      "socials": {
+        "github": "https://github.com/midokura"
+      },
+      "imageURL": "https://midokura.com/wp-content/uploads/2020/03/cropped-favicon-midokura-32x32.png",
+      "key": "midoteam"
+    }
+  ],
+  "frontMatter": {
+    "slug": "v25.1.6",
+    "title": "Upgrade to v25.1.6",
+    "date": "2026-09-15T00:00:00.000Z",
+    "authors": [
+      "midoteam"
+    ],
+    "tags": [
+      "aisware"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Upgrade to v25.1.5",
+    "permalink": "/upgrade-guide/v25.1.5"
+  }
+}

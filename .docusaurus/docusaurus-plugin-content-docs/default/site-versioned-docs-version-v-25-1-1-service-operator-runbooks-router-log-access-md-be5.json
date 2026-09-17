@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/ROUTER_LOG_ACCESS",
+  "title": "Router Host Log Access",
+  "description": "Getting logs from the router",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/ROUTER_LOG_ACCESS.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/ROUTER_LOG_ACCESS",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/ROUTER_LOG_ACCESS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Personal data disposal procedure",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/PERSONAL_DATA_DISPOSAL"
+  },
+  "next": {
+    "title": "Switch heartbeat alert",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/SWITCH_HEARTBEAT_ALERT"
+  }
+}

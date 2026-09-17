@@ -1,0 +1,23 @@
+{
+  "id": "user/BLOCK_STORAGE_SETUP",
+  "title": "Block Storage Setup",
+  "description": "Format and mount an additional block device",
+  "source": "@site/versioned_docs/version-v25.1.6/user/BLOCK_STORAGE_SETUP.md",
+  "sourceDirName": "user",
+  "slug": "/user/BLOCK_STORAGE_SETUP",
+  "permalink": "/docs/user/BLOCK_STORAGE_SETUP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.6",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bare Metal Management",
+    "permalink": "/docs/user/BAREMETAL_MANAGEMENT"
+  },
+  "next": {
+    "title": "GPU Server Verification",
+    "permalink": "/docs/user/GPU_SERVER_VERIFICATION"
+  }
+}

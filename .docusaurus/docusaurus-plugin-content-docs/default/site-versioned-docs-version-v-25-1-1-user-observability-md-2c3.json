@@ -1,0 +1,23 @@
+{
+  "id": "user/OBSERVABILITY",
+  "title": "Observability for Users",
+  "description": "Monitoring tenant resources with a Grafana Dashboard.",
+  "source": "@site/versioned_docs/version-v25.1.1/user/OBSERVABILITY.md",
+  "sourceDirName": "user",
+  "slug": "/user/OBSERVABILITY",
+  "permalink": "/docs/v25.1.1/user/OBSERVABILITY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Object Store Management",
+    "permalink": "/docs/v25.1.1/user/OBJECT_STORE_MANAGEMENT"
+  },
+  "next": {
+    "title": "Public IP Access",
+    "permalink": "/docs/v25.1.1/user/PUBLIC-IP-ACCESS"
+  }
+}

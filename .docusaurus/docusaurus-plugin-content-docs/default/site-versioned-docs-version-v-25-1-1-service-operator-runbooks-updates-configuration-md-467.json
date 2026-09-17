@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/updates/CONFIGURATION",
+  "title": "Update Environment Configuration",
+  "description": "Configuring the environment.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/updates/CONFIGURATION.md",
+  "sourceDirName": "service-operator/runbooks/updates",
+  "slug": "/service-operator/runbooks/updates/CONFIGURATION",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/CONFIGURATION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Software Update Runbooks",
+    "permalink": "/docs/v25.1.1/category/software-update-runbooks"
+  },
+  "next": {
+    "title": "Update Management Cluster",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/MANAGEMENT_CLUSTER"
+  }
+}

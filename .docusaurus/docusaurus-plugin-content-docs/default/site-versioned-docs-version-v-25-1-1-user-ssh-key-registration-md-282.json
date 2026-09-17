@@ -1,0 +1,23 @@
+{
+  "id": "user/SSH_KEY_REGISTRATION",
+  "title": "SSH Key Registration",
+  "description": "Setting up SSH key access to VMs in the IaaS console.",
+  "source": "@site/versioned_docs/version-v25.1.1/user/SSH_KEY_REGISTRATION.md",
+  "sourceDirName": "user",
+  "slug": "/user/SSH_KEY_REGISTRATION",
+  "permalink": "/docs/v25.1.1/user/SSH_KEY_REGISTRATION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Public IP Access",
+    "permalink": "/docs/v25.1.1/user/PUBLIC-IP-ACCESS"
+  },
+  "next": {
+    "title": "VM Management",
+    "permalink": "/docs/v25.1.1/user/VM_MANAGEMENT"
+  }
+}

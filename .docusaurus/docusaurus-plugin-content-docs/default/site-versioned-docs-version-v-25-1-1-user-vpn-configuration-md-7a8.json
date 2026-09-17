@@ -1,0 +1,23 @@
+{
+  "id": "user/VPN_CONFIGURATION",
+  "title": "VPN Configuration as a Tenant User",
+  "description": "Setting up the VPN as a Tenant User.",
+  "source": "@site/versioned_docs/version-v25.1.1/user/VPN_CONFIGURATION.md",
+  "sourceDirName": "user",
+  "slug": "/user/VPN_CONFIGURATION",
+  "permalink": "/docs/v25.1.1/user/VPN_CONFIGURATION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VM Management",
+    "permalink": "/docs/v25.1.1/user/VM_MANAGEMENT"
+  },
+  "next": {
+    "title": "Service Operator",
+    "permalink": "/docs/v25.1.1/category/service-operator"
+  }
+}

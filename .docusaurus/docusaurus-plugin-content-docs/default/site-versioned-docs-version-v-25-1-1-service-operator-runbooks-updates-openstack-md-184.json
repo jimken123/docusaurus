@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/updates/OPENSTACK",
+  "title": "Update OpenStack",
+  "description": "Upgrading OpenStack version.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/runbooks/updates/OPENSTACK.md",
+  "sourceDirName": "service-operator/runbooks/updates",
+  "slug": "/service-operator/runbooks/updates/OPENSTACK",
+  "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/OPENSTACK",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Re-provision Node OS",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/NODES"
+  },
+  "next": {
+    "title": "Update AI Factory PaaS",
+    "permalink": "/docs/v25.1.1/service-operator/runbooks/updates/PAAS"
+  }
+}

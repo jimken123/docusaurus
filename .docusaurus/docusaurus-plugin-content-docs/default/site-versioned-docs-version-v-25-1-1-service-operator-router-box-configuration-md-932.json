@@ -1,0 +1,26 @@
+{
+  "id": "service-operator/ROUTER_BOX_CONFIGURATION",
+  "title": "Router Services Configuration",
+  "description": "Configuring the Router Box.",
+  "source": "@site/versioned_docs/version-v25.1.1/service-operator/ROUTER_BOX_CONFIGURATION.md",
+  "sourceDirName": "service-operator",
+  "slug": "/service-operator/ROUTER_BOX_CONFIGURATION",
+  "permalink": "/docs/v25.1.1/service-operator/ROUTER_BOX_CONFIGURATION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "sidebarPosition": 85,
+  "frontMatter": {
+    "sidebar_position": 85
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Public IP Access",
+    "permalink": "/docs/v25.1.1/service-operator/PUBLIC_IP_ACCESS"
+  },
+  "next": {
+    "title": "VPN Configuration as a Service Operator",
+    "permalink": "/docs/v25.1.1/service-operator/VPN_CONFIGURATION"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "user/NVME_S3_SECURE_TRANSFER",
+  "title": "Securely Transferring Data Between NVMe and Object Storage",
+  "description": "Step-by-step guide for copying data from a Jumbo VM's local NVMe (Non-Volatile Memory Express) storage to S3-compatible object storage and back, with SSE-C (Server-Side Encryption with Customer-Provided Keys) encryption throughout.",
+  "source": "@site/versioned_docs/version-v25.1.6/user/NVME_S3_SECURE_TRANSFER.md",
+  "sourceDirName": "user",
+  "slug": "/user/NVME_S3_SECURE_TRANSFER",
+  "permalink": "/docs/user/NVME_S3_SECURE_TRANSFER",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.6",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User",
+    "permalink": "/docs/category/user"
+  },
+  "next": {
+    "title": "Cluster Add-ons",
+    "permalink": "/docs/user/ADDONS_USER_GUIDE"
+  }
+}

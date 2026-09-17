@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/v25.1.5",
+  "source": "@site/blog/v25.1.5-releasenotes.md",
+  "title": "AIsware v25.1.5",
+  "description": "Version 25.1.5 of AIsware is now available.",
+  "date": "2026-08-21T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "AIsware",
+      "permalink": "/blog/tags/aisware",
+      "description": "AIsware tag description"
+    }
+  ],
+  "readingTime": 0.87,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Midokura Team",
+      "title": "Midokura Team",
+      "url": "https://midokura.com",
+      "page": {
+        "permalink": "/blog/authors/midoteam"
+      },
+      "socials": {
+        "github": "https://github.com/midokura"
+      },
+      "imageURL": "https://midokura.com/wp-content/uploads/2020/03/cropped-favicon-midokura-32x32.png",
+      "key": "midoteam"
+    }
+  ],
+  "frontMatter": {
+    "slug": "v25.1.5",
+    "title": "AIsware v25.1.5",
+    "date": "2026-08-21T00:00:00.000Z",
+    "authors": [
+      "midoteam"
+    ],
+    "tags": [
+      "aisware"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "AIsware v25.1.6",
+    "permalink": "/blog/v25.1.6"
+  },
+  "nextItem": {
+    "title": "AI Factory v25.1.3",
+    "permalink": "/blog/v25.1.3"
+  }
+}

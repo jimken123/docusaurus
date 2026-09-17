@@ -1,0 +1,23 @@
+{
+  "id": "service-operator/runbooks/PERSONAL_DATA_DISPOSAL",
+  "title": "Personal data disposal procedure",
+  "description": "Removing personal data for GDPR erasure request",
+  "source": "@site/versioned_docs/version-v25.1.6/service-operator/runbooks/PERSONAL_DATA_DISPOSAL.md",
+  "sourceDirName": "service-operator/runbooks",
+  "slug": "/service-operator/runbooks/PERSONAL_DATA_DISPOSAL",
+  "permalink": "/docs/service-operator/runbooks/PERSONAL_DATA_DISPOSAL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.6",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OpenStack cluster safe stop / cold start",
+    "permalink": "/docs/service-operator/runbooks/OPENSTACK_CLUSTER_STOP_START"
+  },
+  "next": {
+    "title": "pgpool stuck on wrong primary after PostgreSQL HA failover",
+    "permalink": "/docs/service-operator/runbooks/PGPOOL_WRONG_PRIMARY"
+  }
+}

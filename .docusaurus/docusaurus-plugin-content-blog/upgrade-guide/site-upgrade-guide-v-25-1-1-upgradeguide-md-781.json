@@ -1,0 +1,47 @@
+{
+  "permalink": "/upgrade-guide/v25.1.1",
+  "source": "@site/upgrade-guide/v25.1.1-upgradeguide.md",
+  "title": "Upgrade to v25.1.1",
+  "description": "No manual upgrade steps are required. Upgrading from 25.1.0 to 25.1.1 is a drop-in replacement.",
+  "date": "2026-05-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "aifactory",
+      "permalink": "/upgrade-guide/tags/aifactory"
+    }
+  ],
+  "readingTime": 0.09,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Midokura Team",
+      "title": "Midokura Team",
+      "url": "https://midokura.com",
+      "page": {
+        "permalink": "/upgrade-guide/authors/midoteam"
+      },
+      "socials": {
+        "github": "https://github.com/midokura"
+      },
+      "imageURL": "https://midokura.com/wp-content/uploads/2020/03/cropped-favicon-midokura-32x32.png",
+      "key": "midoteam"
+    }
+  ],
+  "frontMatter": {
+    "slug": "v25.1.1",
+    "title": "Upgrade to v25.1.1",
+    "date": "2026-05-15T00:00:00.000Z",
+    "authors": [
+      "midoteam"
+    ],
+    "tags": [
+      "aifactory"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Upgrade to v25.1.2",
+    "permalink": "/upgrade-guide/v25.1.2"
+  }
+}

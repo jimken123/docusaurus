@@ -1,0 +1,23 @@
+{
+  "id": "user/OBJECT_STORE_MANAGEMENT",
+  "title": "Object Store Management",
+  "description": "Managing S3-compatible object storage containers and credentials",
+  "source": "@site/versioned_docs/version-v25.1.1/user/OBJECT_STORE_MANAGEMENT.md",
+  "sourceDirName": "user",
+  "slug": "/user/OBJECT_STORE_MANAGEMENT",
+  "permalink": "/docs/v25.1.1/user/OBJECT_STORE_MANAGEMENT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "v25.1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes Clusters",
+    "permalink": "/docs/v25.1.1/user/KUBERNETES_CLUSTER_REFERENCE"
+  },
+  "next": {
+    "title": "Observability for Users",
+    "permalink": "/docs/v25.1.1/user/OBSERVABILITY"
+  }
+}
